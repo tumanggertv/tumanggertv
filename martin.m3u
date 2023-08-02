@@ -108,3 +108,19 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298565
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rock Extreme" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",ID: Rock Extreme
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298566
+
+
+=====GALAXY=====
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="MOVIES 2" tvg-logo="https://i.postimg.cc/DzdQHYjf/galaxy.png", Galaxy
+http://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+
+=====GALAXY PREMIUM=====
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HscwdLZh/galaxy-premium.png" group-title="MOVIES 2",Galaxy Premium
+http://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
