@@ -16,10 +16,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV M*
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15kp19wT/20230518-220911.png" group-title="NASIONAL" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV JACK
-https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15kp19wT/20230518-220911.png" group-title="NASIONAL" tvg-id="KompasTV.id" tvg-name="Kompas TV", Kompas TV *1*
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/15kp19wT/20230518-220911.png",Kompas TV *2*
+https://video.jixie.media/live-test/kompastv.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/15kp19wT/20230518-220911.png",Kompas TV *3*
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/15kp19wT/20230518-220911.png",Kompas TV *4*
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
