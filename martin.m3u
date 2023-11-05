@@ -22,10 +22,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/DyJqNWJL/20230518-221003.png",Metro TV *3*
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -155,4 +151,25 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax T*
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2HVQjwT/20230518-221123.png" group-title="NASIONAL" tvg-id="tvOne.id" tvg-name="TVOne", TVONE HD *1*
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/T2HVQjwT/20230518-221123.png",TVONE HD *2*
+http://210.210.155.37/qwr9ew/s/s0105/index.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/T2HVQjwT/20230518-221123.png",TVONE HD *3*
+http://edge.linknetott.swiftserve.com/channelgroup3/cg327production/ch12/02.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/T2HVQjwT/20230518-221123.png" group-title="NASIONAL",TVONE HD *4*
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.m3u8
+
+
 
