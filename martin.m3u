@@ -88,45 +88,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional M*
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar* 
-#EXTGRP:National
-https://github.com/OngisMbois/iptv/raw/main/indosiar.m3u8
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar* 
-#EXTGRP:National
-https://github.com/OngisMbois/iptv/raw/main/indosiar.m3u8
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
-#EXTGRP:National
-http://103.152.118.53:80/streams/indosiar_2/index.m3u8
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar HD
-#EXTGRP:National
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162138
-
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar
-#EXTGRP:National
-http://103.152.118.53:80/streams/indosiar/index.m3u8
-
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV*
-#EXTGRP:National
-https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
-
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-#EXTGRP:National
-http://103.152.118.53:80/streams/esceteve/index.m3u8
-
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
-#EXTGRP:National
-http://103.152.118.53:80/streams/esceteve_2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV 
-#EXTGRP:National
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV HD
-#EXTGRP:National
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162141
 
 =========================== MOVIES ===================================================
 
