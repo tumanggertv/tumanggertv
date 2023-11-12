@@ -1,16 +1,5 @@
 ================================== LOKAL ========================================== 
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=Android-R+
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubFastX.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
-https://mqgn.vizcloud.co/simple/EqPFIfoQWADtjDlGha7rC5Auq1wcufj7Th57rqk+wYkqUtAcS2El_Po4w12gXe6GqtKNRtc_/br/H4/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
-https://mqgn.vizcloud.co/simple/EqPFIfoQWADtjDlGha7rC5Auq1wcufj7Th57rqk+wYkqUtAcS2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=640x360, SUBTITLES="subs" 
-https://mqgn.vizcloud.co/simple/EqPFIfoQWADtjDlGha7rC5Auq1wcufj7Th57rqk+wYkqUtAcS2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
