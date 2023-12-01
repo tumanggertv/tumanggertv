@@ -439,10 +439,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1tvg-logo="https://media.info/i/lf/0/1690027975/1491.png"group-title="Football",TNT Sport 4
+#EXTINF:-1tvg-logo="https://media.info/i/lf/0/1690027975/1491.png"group-title="SPORTS",TNT Sport 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="Football",True Premier Football 1
+#EXTINF:-1tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png"group-title="SPORTS",True Premier Football 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 
 
