@@ -687,14 +687,6 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="OLAHRAGA", BEIN SPORTS 2 TH
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="OLAHRAGA",Astro SuperSport 1
-https://m2.ballnaja.com/assp1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="OLAHRAGA",Astro SuperSport 2
-https://m2.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="OLAHRAGA",Astro SuperSport 3
-https://m2.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="OLAHRAGA",Astro Supersport 4
-https://m2.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -716,11 +708,7 @@ https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png" ,K+ SPORTS 1
-http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
 
-#EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png" ,K+ SPORTS 2
-http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="spotv.kr" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV 1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="spotv2.kr" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV 2 
@@ -742,12 +730,6 @@ https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="OLAHRAGA",Sporttv 4
 https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
-#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 1
-https://kusnadipepenk.github.io/ntn/ele1.m3u8
-#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 2
-https://kusnadipepenk.github.io/ntn/ele2.m3u8
-#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 3
-https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:0  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="OLAHRAGA",Arena 1 Sport
 https://kusnadipepenk.github.io/ntn/arns1.m3u8
 #EXTINF:0  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="OLAHRAGA",Arena 2 Sport
