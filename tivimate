@@ -20,3 +20,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index
 #EXTINF:-1 group-title="NASIONAL SD" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png", 06 TVRI HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:-1 group-title="NASIONAL SD",DISCOVERY CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:-1 group-title="NASIONAL SD",ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
