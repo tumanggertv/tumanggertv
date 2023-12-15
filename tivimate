@@ -10,11 +10,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="trans tv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL SD", 04 TRANS TV HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL SD",TRANS 7 HD
-http://tvkuonline.my.id:25461/riyad/riyad/15
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="NASIONAL SD",Ongis TV
+https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="NASIONAL SD",TRANSTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#EXTINF:-1 group-title="NASIONAL SD",TRANS7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL SD" tvg-logo="https://www.etere.com/DocImageArchive/637370636043362425.png", 06 TVRI HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
