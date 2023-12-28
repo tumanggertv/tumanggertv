@@ -62,9 +62,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #EXTINF:-1 group-title="NASIONAL",Rock Action
 https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sxhqwbc/blueant.png" group-title="NASIONAL",Rock Intertainment
-https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
-
 #EXTINF:-1 group-title="NASIONAL",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 
