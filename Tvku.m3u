@@ -1,0 +1,2744 @@
+#EXTM3U
+
+
+#EXTM3U
+
+
+
+=====================DENS TV========================
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="DENS TV",TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="DENS TV",TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MAGNA CHANEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",ELSHINTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",NUSANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Mekkah Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Madinah  Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV9 NUSANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MADU TV NUSANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",JAWA POS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://v2.siar.us/jawapostv/live/chunks.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Kompas Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",IDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Nadoo commerse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Nadoo Korean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Life & Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Knowledge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Showbiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DENS Food Chanel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Kartoon SIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",M+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",My Cinema Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",My Family Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",MCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Cinema World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",CREMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h228/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",TV5 Monde Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Deluxe Lounge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h172/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Horizon Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Wsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Adventure
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Biznet Life Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",DUNIA SINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14136
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14140
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14156/.ts
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14144
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14160
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://astrompd.kalinggap3workersdev.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primar
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Hbo Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14152
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",Hbo Extrem
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14165
+
+#EXTINF:0 tvg-id="outdoor" group-title="DENS TV",WB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://208.115.225.174:14132
+
+=========================================== NATIONAL TV ===========================================
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png",MNC TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar
+https://playlist-coffee.my.id/oxy/indosiar.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="" tvg-logo="none" group-title="INDONESIA" group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/SCTV%20SD-FirstMedia-Chl-10.jpg" group-title="INDONESIA", SCTV
+https://playlist-coffee.my.id/oxy/sctv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png",GTV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/79b8e2c9-bdb.png" group-title="INDONESIA", RTV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="INDONESIA", MOJI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://s.id/1YseN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="INDONESIA",MOJI (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="mentaritv.id" tvg-logo="https://i.postimg.cc/pTypkfGy/mentari.png",Mentari TV (Indi) 
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png",JTV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr Asia (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="INDONESIA",DreamWorks (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax (Sg)
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",Aniplus (Vn)
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/298504
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="INDONESIA",My Kidz (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",IMC (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://images.indihometv.com/tvposter/flik.png", Flik (Indi)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="INDONESIA",Flik (*)
+https://s.id/flikHD_shareext-ts
+http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165095
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-id="Aniplus" group-title="INDONESIA" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus(Indi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",iNews (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#EXTINF:-1 tvg-logo="none" group-title="INDONESIA",Liputan 6
+https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="INDONESIA",METRO GLOBE NETWORK
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://thumbor.prod.vidiocdn.com/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg",Jak TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wkto3In.png" group-title="INDONESIA",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png",Bali TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png",Bandung TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",BTV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News English
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",SindoNews (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="none" group-title="INDONESIA",Indonesiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs0v5WJR/pesona-indonesia.png" group-title="INDONESIA",Pesona Indonesia
+https://h1.intechmedia.net/intech/ch92.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",Baby TV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 group-title="INDONESIA" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png",CBeebies (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg",Miao Mi (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="none", Kids Channel - Toonz Kids (D*)
+http://210.210.155.35/x6bnqe/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
+
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="INDONESIA", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="INDONESIA",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="INDONESIA",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Cinemachi Extra (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+======================================================================================
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONESIA",HBO ID
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
+https://zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONESIA",HBO Hits ID
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
+https://zozotv.xyz:443/rozila969/abc12345/97
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONESIA",HBO Family ID
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
+https://zozotv.xyz:443/rozila969/abc12345/98
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="INDONESIA",HBO Signature ID
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
+https://zozotv.xyz:443/rozila969/abc12345/99
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="INDONESIA",Cinemax ID
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
+https://zozotv.xyz:443/rozila969/abc12345/107
+
+======================================================================================
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONESIA",HBO (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONESIA",HBO (cbm)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONESIA",HBO Hits (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONESIA",HBO Hits (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONESIA",HBO Family (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONESIA",HBO Family (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="INDONESIA",HBO Signature (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="INDONESIA",HBO Signature (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="INDONESIA",Cinemax (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"https://api.thomasandi.my.id/api/cubmu.php"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://auto.nyolong-lu-y.workers.dev
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="INDONESIA",Cinemax (cbm)
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+======================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONESIA",HBO (Sg)
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONESIA",HBO Hits (Sg)
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONESIA",HBO Family (Sg)
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="INDONESIA",HBO Signature (Sg)
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="INDONESIA",Cinemax (Sg)
+https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+
+======================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="INDONESIA",HBO (Thi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png" group-title="INDONESIA",HBO Hits (Thi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="INDONESIA",HBO Family (Thi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="INDONESIA",HBO Signature (Thi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="INDONESIA",CINEMAX (Thi)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
+
+======================================================================================
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="INDONESIA", HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="INDONESIA", HBO Hits - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="INDONESIA", HBO Family - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Signature HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="INDONESIA", HBO Signature - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="INDONESIA", Cinemax - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+======================================================================================
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.png",Rock Action (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png",TVN Movies (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-id="mycinemaasia.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", My Cinema Europe (D)
+http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-id="myfamily.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png",My Family Channel (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png",CinemaWorld (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS Movies (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
+http://toh-users.xyz:8080/42204120/16250164/798445
+
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="INDONESIA",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1  group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD (Vn)
+http://fpt.vthanhtivi.pw/Box_Hits/index.m3u8
+#EXTINF:-1  group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",IN THE BOX CHANNEL (Vn)
+http://fpt.vthanhtivi.pw/In_The_Box/tracks-v1a1/mono.m3u8
+http://gg.gg/HaNoiIPTV-In_The_Box_Channel
+
+======================================================================================
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="none",FX*
+#EXTVLCOPT:http-user-agent=Lavf/57.71.100
+http://185.245.0.136:8080/live/play/TjJSc1RqUTBTelJQYXpkT05XdFFRamxNVmt4RVkwdHZOakJGYmxOWmFEQTJlRzUxYzFGME1HRmlZejA9/45451
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="none",OCN Movie*
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:B1:30:05&stream=174745&extension=ts&play_token=eUB65L83fZ
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png",HBO Signature* 
+http://208.115.225.174:14160
+#EXTINF:-1  group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png",HBO*
+http://208.115.225.174:14136
+#EXTINF:-1  group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png",HBO Extreme*
+http://208.115.225.174:14165
+#EXTINF:0  group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png",HBO2*
+http://208.115.225.174:14140
+#EXTINF:-1  group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",HBO Mundi*
+http://208.115.225.174:14148
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="INDONESIA",EBC Movies
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="INDONESIA",EBC Foreign Movies
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+
+
+
+
+
+################    FIRSTMEDIA   ##########################
+###########################################################
+
+
+#EXTINF:-1 group-title="FIRSTMEDIA",TRANSTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TRANS7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ANTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",BERITASATU WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",KOMPASTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",METROTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",IDX CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",GARUDATV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",DAAITV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",JAKTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TV9 NUSANTARA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",WESTJAVA NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch50%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",BALAIKOTA CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch73%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",BALAIKOTA BANDUNG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch102%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",FIRST WARRIORS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",FIRST LIFESTYLE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TVRI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",PARAMOUNT NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ACTION
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HITSMOVIE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TVNMOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ZEEBIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",EUROSPORT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CGTN DOCUMENTARY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",DISCOVERY CHANNEL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",LOVENATURE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HISTORY
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CRIMEINVESTIGATION
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TECHSTORM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch333%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",GLOBAL TREKKER
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",LIFETIME
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",FOOD NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",FASHIONTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",DAVINCI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",NICKJR.
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",MTV 90S
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",MTV STAGE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",STINGRAY NATURESCAPE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",STINGRAY DJAZZ
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",CH3888
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+
+
+=================TV PREMIUM==================
+
+
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",MNC TV
+http://iptvtree.net:8080/F26646/f950f250/165054
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Indosiar
+http://iptvtree.net:8080/F26646/f950f250/162138
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",RCTI
+http://iptvtree.net:8080/F26646/f950f250/157591
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",SCTV
+http://iptvtree.net:8080/F26646/f950f250/162141
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",GTV
+http://iptvtree.net:8080/F26646/f950f250/157578
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Trans TV
+http://iptvtree.net:8080/F26646/f950f250/162503
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Trans 7
+http://iptvtree.net:8080/F26646/f950f250/162502
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",ANTV
+http://iptvtree.net:8080/F26646/f950f250/165072
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Rajawali TV
+http://iptvtree.net:8080/F26646/f950f250/196457
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Net
+http://iptvtree.net:8080/F26646/f950f250/80292
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",JTV
+http://iptvtree.net:8080/F26646/f950f250/165091
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Horee!
+http://iptvtree.net:8080/F26646/f950f250/264750
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Hip Hip Horee!
+http://iptvtree.net:8080/F26646/f950f250/298536
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Moji
+http://iptvtree.net:8080/F26646/f950f250/298550
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Mentari TV
+http://iptvtree.net:8080/F26646/f950f250/298546
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",ANIMAL PLANET
+http://iptvtree.net:8080/F26646/f950f250/157532
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Kids TV
+http://iptvtree.net:8080/F26646/f950f250/162505
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",DreamWorks
+http://iptvtree.net:8080/F26646/f950f250/157610
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",nickelodeon
+http://iptvtree.net:8080/F26646/f950f250/162510
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Nick Jr
+http://iptvtree.net:8080/F26646/f950f250/165107
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Nick Jr EN
+http://iptvtree.net:8080/F26646/f950f250/298561
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Animax
+http://iptvtree.net:8080/F26646/f950f250/165081
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",AniPlus
+http://iptvtree.net:8080/F26646/f950f250/298504
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CARTOON NETWORK
+http://iptvtree.net:8080/F26646/f950f250/298507
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Cartoon Network
+http://iptvtree.net:8080/F26646/f950f250/157593
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CBeebies
+http://iptvtree.net:8080/F26646/f950f250/247448
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Disney Channel
+http://iptvtree.net:8080/F26646/f950f250165075
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Disney Junior
+http://iptvtree.net:8080/F26646/f950f250/162511
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Disney XD
+http://iptvtree.net:8080/F26646/f950f250/276564
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Dunia Anak
+http://iptvtree.net:8080/F26646/f950f250/264753
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Indi Kids
+http://iptvtree.net:8080/F26646/f950f250/298539
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",My Kidz
+http://iptvtree.net:8080/F26646/f950f250/298556
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Baby TV
+http://iptvtree.net:8080/F26646/f950f250/157605
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Zee Bioskop
+http://iptvtree.net:8080/F26646/f950f250/157584
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",IMC
+http://iptvtree.net:8080/F26646/f950f250/264769
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",FLIK
+http://iptvtree.net:8080/F26646/f950f250/165095
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Bioskop Indonesia
+http://iptvtree.net:8080/F26646/f950f250/264801
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Citra Bioskop
+http://iptvtree.net:8080/F26646/f950f250/298519
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Citra Dangdut
+http://iptvtree.net:8080/F26646/f950f250/247446
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Citra Drama
+http://iptvtree.net:8080/F26646/f950f250/264748
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Citra Entertainment
+http://iptvtree.net:8080/F26646/f950f250/298520
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Ent
+http://iptvtree.net:8080/F26646/f950f250/157581
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Lifestyle & Fashion
+http://iptvtree.net:8080/F26646/f950f250/157592
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Lifetime
+http://iptvtree.net:8080/F26646/f950f250/298543
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Vision Prime
+http://iptvtree.net:8080/F26646/f950f250/197958
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",OK TV
+http://iptvtree.net:8080/F26646/f950f250/221956
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Infotainment
+http://iptvtree.net:8080/F26646/f950f250/298541
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Nusantara TV
+http://iptvtree.net:8080/F26646/f950f250/166410
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Dunia Lain
+http://iptvtree.net:8080/F26646/f950f250/298524
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Insert
+http://iptvtree.net:8080/F26646/f950f250/264766
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TV 9 Nusantara
+http://iptvtree.net:8080/F26646/f950f250/162509
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TV One
+http://iptvtree.net:8080/F26646/f950f250/296214
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Berita Satu
+http://iptvtree.net:8080/F26646/f950f250/162513
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Berita Satu World
+http://iptvtree.net:8080/F26646/f950f250/162136
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Bloomberg TV
+http://iptvtree.net:8080/F26646/f950f250/157599
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CNBC Indonesia
+http://iptvtree.net:8080/F26646/f950f250/165062
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CNN Indonesia
+http://iptvtree.net:8080/F26646/f950f250/162137
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CNN International
+http://iptvtree.net:8080/F26646/f950f250/264778
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",INews
+http://iptvtree.net:8080/F26646/f950f250/157579
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",SEA Today
+http://iptvtree.net:8080/F26646/f950f250/298568
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Sindonews TV
+http://iptvtree.net:8080/F26646/f950f250/299485
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Metro TV
+http://iptvtree.net:8080/F26646/f950f250/165059
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVRI
+http://iptvtree.net:8080/F26646/f950f250/162504
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVRI 4
+http://iptvtree.net:8080/F26646/f950f250/287433
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVRI Kalimantan Tengah
+http://iptvtree.net:8080/F26646/f950f250/166702
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVRI Sport
+http://iptvtree.net:8080/F26646/f950f250/166686
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVRI Sulawesi Selatan
+http://iptvtree.net:8080/F26646/f950f250/166699
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Arirang
+http://iptvtree.net:8080/F26646/f950f250/247447
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Asian Food Network
+http://iptvtree.net:8080/F26646/f950f250/298503
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",AXN
+http://iptvtree.net:8080/F26646/f950f250/165079
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Bali TV
+http://iptvtree.net:8080/F26646/f950f250/197962
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Balikpapan TV
+http://iptvtree.net:8080/F26646/f950f250/166409
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Bandung TV
+http://iptvtree.net:8080/F26646/f950f250/166416
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",BBC Earth
+http://iptvtree.net:8080/F26646/f950f250/165106
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",BBC Lifestyle
+http://iptvtree.net:8080/F26646/f950f250/264747
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",beIN Sports 1
+http://iptvtree.net:8080/F26646/f950f250/165105
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",beIN Sports 3
+http://iptvtree.net:8080/F26646/f950f250/298506
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CCM
+http://iptvtree.net:8080/F26646/f950f250/165103
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Celestial Movies
+http://iptvtree.net:8080/F26646/f950f250/165065
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CGTN
+http://iptvtree.net:8080/F26646/f950f250/298510
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CGTN Documentary
+http://iptvtree.net:8080/F26646/f950f250/298511
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Champion TV 1
+http://iptvtree.net:8080/F26646/f950f250/298512
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Champion TV 2
+http://iptvtree.net:8080/F26646/f950f250/298513
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Champion TV 3
+http://iptvtree.net:8080/F26646/f950f250/298514
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Channel News Asia
+http://iptvtree.net:8080/F26646/f950f250/157602
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Chinese Drama
+http://iptvtree.net:8080/F26646/f950f250/298516
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",CinemaWorld
+http://iptvtree.net:8080/F26646/f950f250/165082
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Cinemax
+http://iptvtree.net:8080/F26646/f950f250/197964
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Crime+ Investigation
+http://iptvtree.net:8080/F26646/f950f250/165052
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Da Ai TV
+http://iptvtree.net:8080/F26646/f950f250/165061
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Discovery World
+http://iptvtree.net:8080/F26646/f950f250/157597
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Eat&Go
+http://iptvtree.net:8080/F26646/f950f250/264765
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Etv Bioskop
+http://iptvtree.net:8080/F26646/f950f250/298526
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Etv Bioskop 02
+http://iptvtree.net:8080/F26646/f950f250/298527
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Etv Bioskop 03
+http://iptvtree.net:8080/F26646/f950f250/298528
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Etv Bioskop 04
+http://iptvtree.net:8080/F26646/f950f2500/298529
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Fashion TV
+http://iptvtree.net:8080/F26646/f950f250/298530
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Fight Sport
+http://iptvtree.net:8080/F26646/f950f250/298531
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",FMN
+http://iptvtree.net:8080/F26646/f950f250/165057
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Fox Life
+http://iptvtree.net:8080/F26646/f950f250/165083
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Galaxy
+http://iptvtree.net:8080/F26646/f950f250/264773
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Galaxy Premium
+http://iptvtree.net:8080/F26646/f950f250/264774
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",GEM
+http://iptvtree.net:8080/F26646/f950f250/298533
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",HBO
+http://iptvtree.net:8080/F26646/f950f250/197972
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",HBO Family
+http://iptvtree.net:8080/F26646/f950f250/197055
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",HBO Hits
+http://iptvtree.net:8080/F26646/f950f250/196480
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",HBO Signature
+http://iptvtree.net:8080/F26646/f950f250/221948
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",HGTV
+http://iptvtree.net:8080/F26646/f950f250/298535
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",History
+http://iptvtree.net:8080/F26646/f950f250/162519
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Hits
+http://iptvtree.net:8080/F26646/f950f250/165085
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Hits Movies
+http://iptvtree.net:8080/F26646/f950f250/221947
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Huma Betang TV
+http://iptvtree.net:8080/F26646/f950f250/299486
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Hunan TV
+http://iptvtree.net:8080/F26646/f950f250/247443
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",I Konser
+http://iptvtree.net:8080/F26646/f950f250/264760
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",IDX
+http://iptvtree.net:8080/F26646/f950f250/157590
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Jak TV
+http://iptvtree.net:8080/F26646/f950f250/157601
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",K+
+http://iptvtree.net:8080/F26646/f950f250/197969
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",KBS World
+http://iptvtree.net:8080/F26646/f950f250/197053
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",KIX
+http://iptvtree.net:8080/F26646/f950f250/165068
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Kompas TV
+http://iptvtree.net:8080/F26646/f950f250/165060
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Love Nature
+http://iptvtree.net:8080/F26646/f950f250/264756
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Miao Mi
+http://iptvtree.net:8080/F26646/f950f250/266805
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",MNC News
+http://iptvtree.net:8080/F26646/f950f250/165058
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",MNC Sports
+http://iptvtree.net:8080/F26646/f950f250/157589
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",MNC Sports 2
+http://iptvtree.net:8080/F26646/f950f250/298548
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Sports 3
+http://iptvtree.net:8080/F26646/f950f250/298549
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Music TV
+http://iptvtree.net:8080/F26646/f950f250/165108
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",My Cinema
+http://iptvtree.net:8080/F26646/f950f250/298553
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",My Cinema Asia
+http://iptvtree.net:8080/F26646/f950f250/298554
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",My Family
+http://iptvtree.net:8080/F26646/f950f250/298555
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Nat Geo
+http://iptvtree.net:8080/F26646/f950f250/165094
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Nat Geo Wild
+http://iptvtree.net:8080/F26646/f950f250/197967
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",NBA TV
+http://iptvtree.net:8080/F26646/f950f250/298558
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",NHK World
+http://iptvtree.net:8080/F26646/f950f250/298560
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",ONE
+http://iptvtree.net:8080/F26646/f950f250/298563
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Paramount Network
+http://iptvtree.net:8080/F26646/f950f250/298564
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Prambors
+http://iptvtree.net:8080/F26646/f950f250/264761
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Radar Cirebon TV
+http://iptvtree.net:8080/F26646/f950f250/300662
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Radio 51
+http://iptvtree.net:8080/F26646/f950f250/300846
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Rock Action
+http://iptvtree.net:8080/F26646/f950f250/298490
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Rock Entertaiment
+http://iptvtree.net:8080/F26646/f950f250/298565
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Rock Extreme
+http://iptvtree.net:8080/F26646/f950f250/298566
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Smithsonian Channel
+http://iptvtree.net:8080/F26646/f950f250/264767
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Sony One
+http://iptvtree.net:8080/F26646/f950f250/165077
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",SpoTV
+http://iptvtree.net:8080/F26646/f950f250/298570
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",SpoTV 2
+http://iptvtree.net:8080/F26646/f950f250/298571
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Tech Storm
+http://iptvtree.net:8080/F26646/f950f250/298572
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Tegar TV Lampung
+http://iptvtree.net:8080/F26646/f950f250/166411
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Thrill
+http://iptvtree.net:8080/F26646/f950f250/157580
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TLC
+http://iptvtree.net:8080/F26646/f950f250/165086
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVKU
+http://iptvtree.net:8080/F26646/f950f250/166709
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVN
+http://iptvtree.net:8080/F26646/f950f250/197965
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",TVN Movies
+http://iptvtree.net:8080/F26646/f950f250/157596
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Usee Prime
+http://iptvtree.net:8080/F26646/f950f250/162524
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Usee Sport 1
+http://iptvtree.net:8080/F26646/f950f2500/298577
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Usee Sport 2
+http://iptvtree.net:8080/F26646/f950f250/298578
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",Warner TV
+http://iptvtree.net:8080/F26646/f950f250/157594
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM",ZooMoo
+http://iptvtree.net:8080/F26646/f950f250/264751
+
+
+====================TV PREMIUM 2=======================
+
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ANIMAL PLANET
+http://xtv.ooo:8080/3212571066/abc123/350889
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Animax
+http://xtv.ooo:8080/3212571066/abc123/350890
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",AniPlus
+http://xtv.ooo:8080/3212571066/abc123/350891
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ANTV
+http://xtv.ooo:8080/3212571066/abc123/350892
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Arirang
+http://xtv.ooo:8080/3212571066/abc123/350893
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Asian Food Network
+http://xtv.ooo:8080/3212571066/abc123/350894
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",AXN
+http://xtv.ooo:8080/3212571066/abc123/350895
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Baby TV
+http://xtv.ooo:8080/3212571066/abc123/350896
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Bali TV
+http://xtv.ooo:8080/3212571066/abc123/350897
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",BBC Earth
+http://xtv.ooo:8080/3212571066/abc123/350898
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",BBC Lifestyle
+http://xtv.ooo:8080/3212571066/abc123/350899
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",beIN Sports 1
+http://xtv.ooo:8080/3212571066/abc123/350900
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",beIN Sports 3
+http://xtv.ooo:8080/3212571066/abc123/350901
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Berita Satu
+http://xtv.ooo:8080/3212571066/abc123/350902
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Berita Satu news
+http://xtv.ooo:8080/3212571066/abc123/350903
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Berita Satu World
+http://xtv.ooo:8080/3212571066/abc123/350904
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Besmart
+http://xtv.ooo:8080/3212571066/abc123/350905
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Bioskop Indonesia
+http://xtv.ooo:8080/3212571066/abc123/350906
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Bloomberg TV
+http://xtv.ooo:8080/3212571066/abc123/350907
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Boomerang
+http://xtv.ooo:8080/3212571066/abc123/350908
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Boomerang EN
+http://xtv.ooo:8080/3212571066/abc123/350909
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Cartoon Network
+http://xtv.ooo:8080/3212571066/abc123/350910
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CBeebies
+http://xtv.ooo:8080/3212571066/abc123/350911
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CCM
+http://xtv.ooo:8080/3212571066/abc123/350912
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Celestial Movies
+http://xtv.ooo:8080/3212571066/abc123/350913
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CGTN
+http://xtv.ooo:8080/3212571066/abc123/350914
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CGTN Documentary
+http://xtv.ooo:8080/3212571066/abc123/350915
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Champion TV 1
+http://xtv.ooo:8080/3212571066/abc123/350916
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Champion TV 2
+http://xtv.ooo:8080/3212571066/abc123/350917
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Champion TV 3
+http://xtv.ooo:8080/3212571066/abc123/350918
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Channel News Asia
+http://xtv.ooo:8080/3212571066/abc123/350919
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Chinese Drama
+http://xtv.ooo:8080/3212571066/abc123/350920
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CinemaWorld
+http://xtv.ooo:8080/3212571066/abc123/350921
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Cinemax
+http://xtv.ooo:8080/3212571066/abc123/350922
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Bioskop
+http://xtv.ooo:8080/3212571066/abc123/350923
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Dangdut
+http://xtv.ooo:8080/3212571066/abc123/350924
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Drama
+http://xtv.ooo:8080/3212571066/abc123/350925
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Citra Entertainment
+http://xtv.ooo:8080/3212571066/abc123/350926
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CNBC Indonesia
+http://xtv.ooo:8080/3212571066/abc123/350927
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CNN Indonesia
+http://xtv.ooo:8080/3212571066/abc123/350928
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",CNN International
+http://xtv.ooo:8080/3212571066/abc123/350929
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Crime+ Investigation
+http://xtv.ooo:8080/3212571066/abc123/350930
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Da Ai TV
+http://xtv.ooo:8080/3212571066/abc123/350931
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Discovery Asia
+http://xtv.ooo:8080/3212571066/abc123/350932
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Discovery World
+http://xtv.ooo:8080/3212571066/abc123/350933
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Disney Junior
+http://xtv.ooo:8080/3212571066/abc123/350934
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Disney XD
+http://xtv.ooo:8080/3212571066/abc123/350935
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",DreamWorks
+http://xtv.ooo:8080/3212571066/abc123/350936
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Dunia Anak
+http://xtv.ooo:8080/3212571066/abc123/350937
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Dunia Lain
+http://xtv.ooo:8080/3212571066/abc123/350938
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Eat&Go
+http://xtv.ooo:8080/3212571066/abc123/350939
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Ent
+http://xtv.ooo:8080/3212571066/abc123/350940
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop
+http://xtv.ooo:8080/3212571066/abc123/350941
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop 02
+http://xtv.ooo:8080/3212571066/abc123/350942
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop 03
+http://xtv.ooo:8080/3212571066/abc123/350943
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Etv Bioskop 04
+http://xtv.ooo:8080/3212571066/abc123/350944
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Fashion TV
+http://xtv.ooo:8080/3212571066/abc123/350945
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Fight Sport
+http://xtv.ooo:8080/3212571066/abc123/350946
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",FLIK
+http://xtv.ooo:8080/3212571066/abc123/350947
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",FMN
+http://xtv.ooo:8080/3212571066/abc123/350948
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Fox Crime
+http://xtv.ooo:8080/3212571066/abc123/350949
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Galaxy
+http://xtv.ooo:8080/3212571066/abc123/350950
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Galaxy Premium
+http://xtv.ooo:8080/3212571066/abc123/350951
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",GEM
+http://xtv.ooo:8080/3212571066/abc123/350952
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Golf
+http://xtv.ooo:8080/3212571066/abc123/350953
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",GTV
+http://xtv.ooo:8080/3212571066/abc123/350954
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO
+http://xtv.ooo:8080/3212571066/abc123/350955
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO Family
+http://xtv.ooo:8080/3212571066/abc123/350956
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO Hits
+http://xtv.ooo:8080/3212571066/abc123/350957
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HBO Signature
+http://xtv.ooo:8080/3212571066/abc123/350958
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",HGTV
+http://xtv.ooo:8080/3212571066/abc123/350959
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hip Hip Horee!
+http://xtv.ooo:8080/3212571066/abc123/350960
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",History
+http://xtv.ooo:8080/3212571066/abc123/350961
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hits
+http://xtv.ooo:8080/3212571066/abc123/350962
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hits Movies
+http://xtv.ooo:8080/3212571066/abc123/350963
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Horee!
+http://xtv.ooo:8080/3212571066/abc123/350964
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Hunan TV
+http://xtv.ooo:8080/3212571066/abc123/350965
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",I Konser
+http://xtv.ooo:8080/3212571066/abc123/350967
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",IDX
+http://xtv.ooo:8080/3212571066/abc123/350968
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Ie
+http://xtv.ooo:8080/3212571066/abc123/350969
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",IMC
+http://xtv.ooo:8080/3212571066/abc123/350970
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Indi Kids
+http://xtv.ooo:8080/3212571066/abc123/350971
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Indosiar
+http://xtv.ooo:8080/3212571066/abc123/350972
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",INews
+http://xtv.ooo:8080/3212571066/abc123/350973
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Infotainment
+http://xtv.ooo:8080/3212571066/abc123/350974
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Insert
+http://xtv.ooo:8080/3212571066/abc123/350975
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Jak TV
+http://xtv.ooo:8080/3212571066/abc123/350977
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Jakarta Globe News
+http://xtv.ooo:8080/3212571066/abc123/350978
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",JTV
+http://xtv.ooo:8080/3212571066/abc123/350979
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ID: K+
+http://xtv.ooo:8080/3212571066/abc123/350980
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",KBS World
+http://xtv.ooo:8080/3212571066/abc123/350981
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Kids TV
+http://xtv.ooo:8080/3212571066/abc123/350982
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",KIX
+http://xtv.ooo:8080/3212571066/abc123/350983
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Kompas TV
+http://xtv.ooo:8080/3212571066/abc123/35098
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Lifestyle & Fashion
+http://xtv.ooo:8080/3212571066/abc123/350986
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Lifetime
+http://xtv.ooo:8080/3212571066/abc123/350987
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Love Nature
+http://xtv.ooo:8080/3212571066/abc123/350988
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Mentari TV
+http://xtv.ooo:8080/3212571066/abc123/350989
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Metro TV
+http://xtv.ooo:8080/3212571066/abc123/350990
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Miao Mi
+http://xtv.ooo:8080/3212571066/abc123/350991
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC News
+http://xtv.ooo:8080/3212571066/abc123/350992
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC Sports
+http://xtv.ooo:8080/3212571066/abc123/350993
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC Sports 2
+http://xtv.ooo:8080/3212571066/abc123/350994
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC Sports 3
+http://xtv.ooo:8080/3212571066/abc123/350995
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",MNC TV
+http://xtv.ooo:8080/3212571066/abc123/350996
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Moji
+http://xtv.ooo:8080/3212571066/abc123/350997
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Music TV
+http://xtv.ooo:8080/3212571066/abc123/351002
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Cinema
+http://xtv.ooo:8080/3212571066/abc123/351003
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Cinema Asia
+http://xtv.ooo:8080/3212571066/abc123/351004
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Family
+http://xtv.ooo:8080/3212571066/abc123/351005
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",My Kidz
+http://xtv.ooo:8080/3212571066/abc123/351006
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nat Geo
+http://xtv.ooo:8080/3212571066/abc123/351007
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nat Geo Wild
+http://xtv.ooo:8080/3212571066/abc123/351008
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",NBA TV
+http://xtv.ooo:8080/3212571066/abc123/351009
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Net
+http://xtv.ooo:8080/3212571066/abc123/351010
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",NHK World
+http://xtv.ooo:8080/3212571066/abc123/351011
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nick Jr
+http://xtv.ooo:8080/3212571066/abc123/351012
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nick Jr EN
+http://xtv.ooo:8080/3212571066/abc123/351013
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",nickelodeon
+http://xtv.ooo:8080/3212571066/abc123/351014
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Nusantara TV
+http://xtv.ooo:8080/3212571066/abc123/351015
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",OK TV
+http://xtv.ooo:8080/3212571066/abc123/351016
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ONE
+http://xtv.ooo:8080/3212571066/abc123/351017
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Padang TV
+http://xtv.ooo:8080/3212571066/abc123/351018
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Paramount Network
+http://xtv.ooo:8080/3212571066/abc123/351019
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Prambors
+http://xtv.ooo:8080/3212571066/abc123/351020
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rajawali TV
+http://xtv.ooo:8080/3212571066/abc123/351021
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",RB TV
+http://xtv.ooo:8080/3212571066/abc123/351022
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",RCTI
+http://xtv.ooo:8080/3212571066/abc123/351023
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rock Action
+http://xtv.ooo:8080/3212571066/abc123/351025
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rock Entertaiment
+http://xtv.ooo:8080/3212571066/abc123/351026
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Rock Extreme
+http://xtv.ooo:8080/3212571066/abc123/351027
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",RRI Net
+http://xtv.ooo:8080/3212571066/abc123/351029
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SCTV
+http://xtv.ooo:8080/3212571066/abc123/351030
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SEA Today
+http://xtv.ooo:8080/3212571066/abc123/351031
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Smithsonian Channel
+http://xtv.ooo:8080/3212571066/abc123/351032
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Sony One
+http://xtv.ooo:8080/3212571066/abc123/351033
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SpoTV
+http://xtv.ooo:8080/3212571066/abc123/351034
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",SpoTV 2
+http://xtv.ooo:8080/3212571066/abc123/351035
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Tech Storm
+http://xtv.ooo:8080/3212571066/abc123/351036
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Tegar TV Lampung
+http://xtv.ooo:8080/3212571066/abc123/351037
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Thrill
+http://xtv.ooo:8080/3212571066/abc123/351038
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TLC
+http://xtv.ooo:8080/3212571066/abc123/351039
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Trans 7
+http://xtv.ooo:8080/3212571066/abc123/351040
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Trans TV
+http://xtv.ooo:8080/3212571066/abc123/351041
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TV 9 Nusantara
+http://xtv.ooo:8080/3212571066/abc123/351042
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TV Mu
+http://xtv.ooo:8080/3212571066/abc123/351043
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TV One
+http://xtv.ooo:8080/3212571066/abc123/351044
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVN
+http://xtv.ooo:8080/3212571066/abc123/351045
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVN Movies
+http://xtv.ooo:8080/3212571066/abc123/351046
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI
+http://xtv.ooo:8080/3212571066/abc123/351047
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Gorontalo
+http://xtv.ooo:8080/3212571066/abc123/351048
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Jambi
+http://xtv.ooo:8080/3212571066/abc123/351049
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Jawa Barat
+http://xtv.ooo:8080/3212571066/abc123/351050
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Kalimantan Barat
+http://xtv.ooo:8080/3212571066/abc123/351051
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Sport
+http://xtv.ooo:8080/3212571066/abc123/351052
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",TVRI Sulawesi Selatan
+http://xtv.ooo:8080/3212571066/abc123/351053
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Usee Prime
+http://xtv.ooo:8080/3212571066/abc123/351055
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Usee Sport 1
+http://xtv.ooo:8080/3212571066/abc123/351056
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Usee Sport 2
+http://xtv.ooo:8080/3212571066/abc123/351057
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Vision Prime
+http://xtv.ooo:8080/3212571066/abc123/351058
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Warner TV
+http://xtv.ooo:8080/3212571066/abc123/351059
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",Zee Bioskop
+http://xtv.ooo:8080/3212571066/abc123/351060
+#EXTINF:0 tvg-id="outdoor" group-title="TV PREMIUM 2",ZooMoo
+http://xtv.ooo:8080/3212571066/abc123/351061
+
+
+
+
+================ VISION+ ========================
+
+
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",MNCTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",RCTI
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",GTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TRANSTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683100&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TRANS7
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683116&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ANTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683153&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",RTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683095&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",NET
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683093&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",JTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683115&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV ONE
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683101&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CRIME INVESTIGATION
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683088&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",LOVE NATURE
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683089&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI ACTION
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683090&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HISTORY
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683091&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",OUTDOOR
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683086&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",MUSLIM TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683103&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",MEKKAH TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683102&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",IDX CHANEL
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683104&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",OK TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683105&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TAWAF TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683106&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV MUHAMMADIYAH
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683108&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CELESTIAL MOVIES
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683142&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CCM
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683110&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CGTN DOCUMENTARY
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683111&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ZOO MOO
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683113&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",SPOTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683117&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",XINGKONG
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683118&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",VISION PRIME
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683124&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CELEBRITIES TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683126&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ATV14
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683127&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",OKEZONE TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683128&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",LIFE TIME
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683129&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ONE
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683130&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",Sportstar
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683133&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",KIX
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683134&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FIGHT SPORT
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683135&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HUB SPORT 2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683138&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",BEIN SPORT
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683139&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CGTN
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683140&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FMN
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683143&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",AXN
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683144&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HITS
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683145&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",HITS MOVIES
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683163&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMA WORLD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683146&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TVN
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683148&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TVN MOVIES
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683149&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Family Cinema
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683150&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Cinema Asia
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683151&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Cinema
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683152&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",My Kidz
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683156&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",THRILL
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683154&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",Zee Bioskop
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683155&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI EXTRA
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683161&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI MAX
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683173&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CINEMACHI KIDS
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683085&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ANIMAX
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",KIDS TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",DREAMWORK
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683171&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ZOOMOO
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683172&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",PARAMOUNT NETWORK
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683174&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",NICKELODEON
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683175&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FOX NEWS
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683179&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",JAKTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",METRO TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683181&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",BTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683182&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",NHK WORLD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683183&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV5 MONDE ASIE
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683184&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CNA
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683185&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",CNBC INTERNATIONAL
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683186&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ENT
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683188&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",ALJAZEERA
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683190&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",FRANCE 24
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683191&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",DW
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683192&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",SINDONEWS TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683193&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",KOMPAS TV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683194&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TVRI
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683195&extension=ts&play_token=GVZS088tcf
+#EXTINF:0 tvg-id="outdoor" group-title="VISION+",TV9 NUSANTARA
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
+
+
+===============PREMIUM+================
+
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",MNCTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",RCTI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",GTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TRANSTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683100&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TRANS7
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683116&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ANTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683153&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",RTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683095&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",NET
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683093&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",JTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683115&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TV ONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683101&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CRIME INVESTIGATION
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683088&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",LOVE NATURE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683089&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CINEMACHI ACTION
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683090&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",HISTORY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683091&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",OUTDOOR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683086&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",MUSLIM TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683103&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",MEKKAH TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683102&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",IDX CHANEL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683104&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",OK TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683105&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TAWAF TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683106&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TV MUHAMMADIYAH
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683108&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CELESTIAL MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683142&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CCM
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683110&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CGTN DOCUMENTARY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683111&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ZOO MOO
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683113&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",SPOTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683117&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",XINGKONG
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683118&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",VISION PRIME
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683124&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CELEBRITIES TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683126&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ATV14
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683127&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",OKEZONE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683128&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",LIFE TIME
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683129&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683130&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",Sportstar
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683133&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",KIX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683134&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",FIGHT SPORT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683135&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",HUB SPORT 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683138&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",BEIN SPORT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683139&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CGTN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683140&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",FMN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683143&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",AXN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683144&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",HITS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683145&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",HITS MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683163&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CINEMA WORLD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683146&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TVN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683148&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TVN MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683149&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",My Family Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683150&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",My Cinema Asia
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683151&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",My Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683152&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",My Kidz
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683156&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",THRILL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683154&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",Zee Bioskop
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CINEMACHI EXTRA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683161&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CINEMACHI MAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683173&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CINEMACHI KIDS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683085&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ANIMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683165&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",KIDS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683165&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",DREAMWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683171&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ZOOMOO
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683172&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",PARAMOUNT NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683174&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",NICKELODEON
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683175&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",FOX NEWS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683179&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",JAKTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683180&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",METRO TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683181&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",BTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683182&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",NHK WORLD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683183&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TV5 MONDE ASIE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683184&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CNA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683185&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",CNBC INTERNATIONAL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683186&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ENT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683188&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",ALJAZEERA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683190&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",FRANCE 24
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683191&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",DW
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683192&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",SINDONEWS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683193&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",KOMPAS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683194&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TVRI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683195&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0 tvg-id="outdoor" group-title="PREMIUM+",TV9 NUSANTARA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683196&extension=ts&play_token=wJfTp9js5o
+
+
+
+
+============INDIA PILIHAN===========
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV",&TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/andtv-audio_208482_und=208000-video=562400.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV",&TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV",&TV PICTURES
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures-audio_208482_und=208000-video=562400.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",&TV PICTURES HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=352400.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/0b71866c-37d6-499c-9573-d67785513f95/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BOLLYWOOD 4U
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/b5e64e59-91a4-465a-b14d-3fc180ef69db/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/04685796-c90c-45e4-8577-d6f333463607:SIN/variant/7c78a2dcaf133f167b8b7081db1d898b/bandwidth/1513600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BOLLYWOOD HUNGAMA
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/cba7a328-75b8-4660-af45-86ae0bcf699d/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BBO HD
+https://yuppirecloriginvt.akamaized.net/28072023/smil:bbo.smil/chunklist_b896000.m3u8?hdntl=exp=1705569289~acl=!*/28072023/smil:bbo.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=e754dc63963398557006955b23a6aa0dc7ee5c388d2b4123982ac0fdacd8ed56&hdnts=st=1705482888~exp=1705486488~acl=!*/28072023/smil:bbo.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=4b4c1a6681481a1055b98f1d113f09200b5c7ca2ad645e509c3341205d3eb66e&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=3529&ads.channel_name=BBO&ads.network_name=yupptv&ads.user=1
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BBO CLASSIC
+https://yuppirecloriginvt.akamaized.net/120723/smil:bboclassic.smil/chunklist_b896000.m3u8?hdntl=exp=1705569334~acl=!*/120723/smil:bboclassic.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=37637a940fe3f96d8b0c306840d903a99a0cd6a0bbfc93bb30bfb6eabd351865&hdnts=st=1705482933~exp=1705486533~acl=!*/120723/smil:bboclassic.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=25fe63f8d474be78c51db7adc03b7cfeed32b25ef3e6a34da9c3a653023f8779&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=MOV&ads.channel=4220&ads.channel_name=BBOClassic&ads.network_name=yupptv&ads.user=1
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",B4U MOVIES
+https://faketv.co.in/amedia/stream.php?id=15678
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",B4U MUSIC
+https://faketv.co.in/amedia/stream.php?id=472181
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",STAR UTSAV
+https://entezeetv.fun/oreo/live.php?chunks=b8c8388c1850116e988c51e5aa92f359f2d5ce02c675fe1b09ec008d604abd5e13144f1472fea6d13b197b7a758bb207c906fdebc2dab395960162cd5af179771fd18b90eb6998a6be49b6a049c4cdb3d7c60cd087b2ecbf453e52f05255fcbddb406dcbf5b29942373b72d1152dc91d259b3a5e46cd3e30ad66f436516c0218fe75e88972beaac495a8ebc550bb37b6f9a58326db7c2394790ef255c26bd59adcedb0520db9f0015d38ba2cc3bb4ed0b0821f773fa48260a44851247af45c6428a6ca3e915e9f9f235148c0329f944228fa2586a81d400e4cc735d6dbfc3dfa
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BEST ACTION TV
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/c0a6e978-44b7-42d6-bac9-31e4c2f20db8/0.m3u8?channel_name=bestactiontv
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",COLORS HD
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f61c9bc4a5e5cbe8721a1d0033e7250a4753f20fbd5e1731a844ecb520c94d7468a719b159ecb4c5bcf4a3b186bb0696ed8191985eb954efc84b3c90015ef3fdfaced58d6fccd1437fd0861e65ae1ba5591617bd95d170ba5a10567130fd28cbf8c&token=
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",COLORS SUPER
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f61a5467b71e7623fc3ed39f180460500c87a1220cf0504f41fc07256f200abf8f5f869b530f689f31f05dd29b7527100fb3322d4431700080e4cb092d724142ffed40cf904ec1d9eda5e26c0cfdef7bdf5b9fa2223be481bf9e79dd770efa5ce83&token=
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",COLORS RISHTEY
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f612ef5f2738b5c1c74d50dd7497c729da98d3751db14e6f5c5605c7af42710ed56556659c9f9de975b0b8441b284e85dd03fe916097cbeb4908d4db36d79e7afbd4fbaabd7065be6d282b81a6a44b49bd2b7a4a595f348cb895a165d5bcf5efb4c67fb00965b7d240f2c556b12305c6ca2&token=
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",COLORS CINEPLEX BOLLYWOOD
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f61466289fee2ab71e2b0d630be3892c34885b4d31141008d8452c72fce0a3b6b486a05b9593f586ab4a5c7b332fa5ad5c4cbbe33f0565a433ba8e3a827c3dad51952545442c3b5defed19ac3d5cd4b219abb1f28938a2cfb70358651c90855727b2e72e3df898731dd3f5fa4e9e430c6c4a5a574729060b979c4327317955945f3&token=
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",COLORS CINEPLEX HD
+https://mhdtv.co.in/jio/stream.php?chunks=234ea1aa7d9aa9f9c0594e4960bdcb83341d7f629c9605535b8c9d71ff4e9b19031a8485d95fb14e37d1d27382c8081fb793eea63638ead8a3d2caf90b824f7e19b3b7a6fdde5e6070a2db97f77c661000a7842e740adcae445add8a0d6c1521849f8ba84b65feff6d327764e1445442bf846b1b4d07ceb21b6b414d8c2da78fa7116d519c3454209d102dc1aec1eb72bd86c18271a734f65d7ba0baf35c555b&itoken=
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",COLORS CINEPLEX SUPERHITS
+https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f61649278af763e16908b7dc9ea6c3db0a75170ca086295e8747c94d3d6bd22598d0e0ea3acb60f7b968fbc245f2598771afbd16e91b62356c188954076171ad9c31e50b1783dbd78fb7e347fa42271e134c802dcc753e9de2bd4568f71bf4444e815c14f0dac248b7329fab5674f678f95&token=
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",ZING
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",ZEE TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd-audio_208482_und=208000-video=4237600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",ZEE CINEMA HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",ZEE CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/zeecinema-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",ZEE ACTION
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",ZEE BOLLYWOOD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/zeebollywood-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",SHEMAROO BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb543d1e786c648e9fd43d61cef040a8f94a1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6a4f5c79ca12ce0f61bfdf7daa582d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e753a9fb204f86953c488148b612c82a4de7f317d4a22c00f04b9f54ec0aeb70c078173a4b21b56962957f3d010c8d514ef82d746cc468771ec159cc7a596814381878c36af01bb655d0f74789d8578a1c637c5b236ad3de61301625c3ccfad97f14039954e422e9795a99e568fd84a1447fb0416a8099935e95875a8ae7bc0cb4fabaca9cb430348cc3f986555c2cf8bf09c1f32b667e9b6e897132eda9ebc19369ce280070ceae85db2cad43a5fee6319a5fe053c2bc9900ab19cb982fda48c704944a0dbd997274b426f054dd313f2da25f720d36db0955300524956a2935184d1970f7e3314c6a36efc424ceb82c2c3fe1e2bc6652c5fea4bd04f4a399f63222fb36db1b11458a40a46c53934f05d75a747ffb323bce7f8ed1434b8db8813ae37a1e54487af5bfa236409429efd2e5649493de3ef600c22708c10b78484b2217b708690ecf0c441370e3d65375bc5b3a921e1cdaa4d3206d15c54045b0007997eb14aef2818577c905cbf8106768c0a246dd6af30535f66f599e7d49fb7c51051909f00cd97277645a9d1fb268a/165/1280x720_2657019/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",MASTII
+https://sabliveyupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/99c58516-998a-4e47-b187-d64eed0721c1/0.m3u8
+https://yuppftalive.akamaized.net/080823/manoranjangrand/chunks.m3u8?ads.app_bundle&ads.app_store_url&ads.channel=6384&ads.content_genre=ENT&ads.content_livestream=1&ads.lang=HIN&user=0
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",GOLDMINES BOLLYWOOD
+https://tvs1.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.m3u8?hdnts=st=1700942975~exp=1700986175~acl=/*~data=45.61.146.183-WEB~hmac=d5378ebf069de4fa07d38b2f949328dda461205b1fb820ed1a6b9c1d82805360
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",GOLDMINES
+https://tvs1.aynaott.com/Goldmines/tracks-v1a1/mono.m3u8?hdnts=st%3D1705484354%7Eexp%3D1705527554%7Eacl%3D%2F%2A%7Edata%3D103.105.27.108-WEB%7Ehmac%3D5a34d511f657e94911ef4c635959a07ea3127f9871ff3537350088b5ae9e343a
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",GOLDMINES MOVIES
+https://tvs1.aynaott.com/GoldminesMovies/tracks-v1a1/mono.m3u8?hdnts=st%3D1705484397%7Eexp%3D1705527597%7Eacl%3D%2F%2A%7Edata%3D103.105.27.108-WEB%7Ehmac%3D6e9835e4989829be824d815c76acf0980f2239f29e41b639847a4eb7c6928267
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",GREEN TV
+https://tvs1.aynaott.com/greentv/tracks-v1a1/mono.m3u8?hdnts=st%3D1705484454%7Eexp%3D1705527654%7Eacl%3D%2F%2A%7Edata%3D103.105.27.108-WEB%7Ehmac%3D3df0f1db91e6d820ae70e588c5314beaa64b71a134602c6108e143f6ee9e0a91
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/chunks.m3u8?nimblesessionid=18052292
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",MOVIES
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",SONY TV HD
+https://cdn-tv.co.in/myweb/watch.php?chunks=0f11485cedb7bd4d50dc0c64d994d84a70416d3d08bcf9e120ea4a33e5168ab65b50def24e32d481d493d6ffe886ac9fb4775176a3e8fe5b953af829d85de6a8f7fe73085c204fc3e88c718c3bf5fe1607e92222a4e04c434afcd2e6500c89f8f840be5cf52f209e38a2c96b141770e643c479092005dc862bcfc3ec4428966ffff4db886eb72db905f2cec19e6572f8d0bbe7b8b3739613d6dcb522a981ec96ade0406abdd4557384cc4b00eaaaf98583bccd3c58fcef2815526c65252e3a474addfa9c7eb665ed5bec12a8c93dec20e7cc43a80e7721f40b7793b88a15358dfd955b78fbcc4b83df198c52de5be03461204d8c403f84feb31db7b5085793e5bac9491f0fc19793761d2bc6a72df6454267c149fe9898e2127e775f697fe879eda15311a4220c05c39afedcc09d5d58f1f476fd20053adb01ad054ff028a1ff0f0688793075e755ea2af512876c5607c944eddbef12a08539d62ae6f97e844b
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",SONY TV
+https://tvs1.aynaott.com/SonySD/tracks-v1a1/mono.m3u8?hdnts=st%3D1705484734%7Eexp%3D1705527934%7Eacl%3D%2F%2A%7Edata%3D103.105.27.108-WEB%7Ehmac%3D4cc490ea0a206070abab276d2c24f5865d0587b093da5c1c0dd2af4cc3e7e208
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",SONY MAX HD
+https://cdn-tv.co.in/myweb/watch.php?chunks=0f11485cedb7bd4d50dc0c64d994d84a70416d3d08bcf9e120ea4a33e5168ab6d8fbd1a833824c05a53a344289d53870f1a25fc95709a04f7c7a76ff86aeb5ec3bd50f29fcddf803b3e45533e466aa04b3f1adb9ec478bab81a2017714aab5c455536971f3d5b459483095e868d17eb002a1091b56abceac8d5bdd9c306ce411ef22225f6d6e7aade2def294e1fc707722cf325fb61cfc3426e4c4b63bd9afc5883e6a9167261716b96461b01db8daa977aec7189fb7c830d59c51610c4b130bbb228538db0fdebf2c95d632c500afe2f4e814eda744a9dd66fc2678c2be499f8dbb3d4af5db914619ae53c8e41a59e439b45101432002283f611cf5893212259fa03c4f906298fa7a858d54d464a4bf0633d21d6ca1bec22973acda4f86ec0c8dd9505171e77dd8cd43fd4e3475d6277da443f31ddd385040ce29b7850bc20450be560667a38a9897320f4610f98ea7caaa1fba23b656e95b3a256901ba44a3
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",SONY MAX
+https://cdn-tv.co.in/myweb/watch.php?chunks=0f11485cedb7bd4d50dc0c64d994d84a70416d3d08bcf9e120ea4a33e5168ab675534fe3f06a3e7848750230f644f20e1e6ff17471aa9579baabe2c3caa7f72b3120f2724e89439f0e761ef93042deee337da930ddbd0d72b62590bb309ad6d8c0a7c8d9a3d3afe71fe2faf88f1ccb4aa432f6d85d39d02706b354e2f851b2da35819be73c4039389e65671e2e933cf0029423e866ff48fba04cf018204d373bda15f6411d7d9f65219c322080a2799a7955339448793ed1a2406bf98614ce61ff3f9ca83acb943668c375aff57b886aa1759a5ede8b4bd396e85bcad00f719508420778ffdcf0992f08b15196ee84b5e75b3679afb2dc5e3ccae652d36d824914215f3edc96ea1d15c84ab0104c70066b0599e7449e2d07a6087016051eba22c862ed38b0467647df0c5684c74279dd51248f21929663274c114e01fc19a78226ea817f5bb7f5424f719633af362fd44bf0cf7da314a8cfd385533f591ebb07
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BOOGLE BOLLYWOOD
+https://yuppirecloriginvt.akamaized.net/270723/smil:bogglebolly.smil/chunklist_b464000.m3u8?hdntl=exp=1705568932~acl=!*/270723/smil:bogglebolly.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=c6432bcae2523e019e27bfdfd374502fa1855522844e8b60f5710b64ed85da46
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",BOLLYWOOD CLASSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/1f091444-dbd2-430c-a9d2-1546b18a1f06/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",DHAMAKA MOVIES B4U
+https://mhdtv.co.in/jio/stream.php?chunks=234ea1aa7d9aa9f9c0594e4960bdcb8353d7a4e8a4ddefcd9cf7382a3f51b97131e3bb90d4dd47f8e1a43e7a5dc36eab78c0e0e9b80cc7bf9282998b9b2adfd9cce2f41e32601351f45063b3d1b4853df503a254de2c33a2773ba6b5e2ff36f8460f9bc5189f1084d4048c8d1a74882bd85bf44f68f1035e3e6c8c8269d5ea2a957cb1161b8b01cc56611e57bc1f344315153f2cc2ac7ee209d69a26a5878943a70b25879e5f7f2a6192f20906fedd5f&itoken=
+#EXTINF:0 tvg-id="ext" group-title="INDIA TV ",ZEE HINDUSTAN
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/zeehindustan-audio_208482_und=208000-video=2137600.m3u8
+
+=========================INDIA 2======================
+
+#EXTINF:0 group-title="Channels INDIA",& pictures
+http://iptvtree.net:8080/F26646/f950f250/16958
+#EXTINF:0 group-title="Channels INDIA",& prive
+http://iptvtree.net:8080/F26646/f950f250/49557
+#EXTINF:0 group-title="Channels INDIA",& TV
+http://iptvtree.net:8080/F26646/f950f250/16964
+#EXTINF:0 group-title="Channels INDIA",& Xplor
+http://iptvtree.net:8080/F26646/f950f250/196116
+#EXTINF:0 group-title="Channels INDIA",3 Tamil TV
+http://iptvtree.net:8080/F26646/f950f250/60420
+#EXTINF:0 group-title="Channels INDIA",1st India
+http://iptvtree.net:8080/F26646/f950f250/159102
+#EXTINF:0 group-title="Channels INDIA",7X Music
+http://iptvtree.net:8080/F26646/f950f250/300652
+#EXTINF:0 group-title="Channels INDIA",9X Jalwa
+http://iptvtree.net:8080/F26646/f950f250/45465
+#EXTINF:0 group-title="Channels INDIA",9X Jhakaas
+http://iptvtree.net:8080/F26646/f950f250/165802
+#EXTINF:0 group-title="Channels INDIA",9X Tashan
+http://iptvtree.net:8080/F26646/f950f250/45455
+#EXTINF:0 group-title="Channels INDIA",9XM
+http://iptvtree.net:8080/F26646/f950f250/45471
+#EXTINF:0 group-title="Channels INDIA",9XM Music
+http://iptvtree.net:8080/F26646/f950f250/299847
+#EXTINF:0 group-title="Channels INDIA",Aaj Tak
+http://iptvtree.net:8080/F26646/f950f250/12977
+#EXTINF:0 group-title="Channels INDIA",Aamar Cinema
+http://iptvtree.net:8080/F26646/f950f250/297564
+#EXTINF:0 group-title="Channels INDIA",Akaal Channel
+http://iptvtree.net:8080/F26646/f950f250/165767
+#EXTINF:0 group-title="Channels INDIA",Akaram Kidz
+http://iptvtree.net:8080/F26646/f950f250/267454
+#EXTINF:0 group-title="Channels INDIA",Ala Shemaroo
+http://iptvtree.net:8080/F26646/f950f250/300690
+##EXTINF:0 group-title="Channels INDIA",mrita TV
+http://iptvtree.net:8080/F26646/f950f250/82497
+#EXTINF:0 group-title="Channels INDIA",Anboli
+http://iptvtree.net:8080/F26646/f950f250/299536
+#EXTINF:0 group-title="Channels INDIA",ANIMAL PLANET (TATA PLAY)
+http://iptvtree.net:8080/F26646/f950f250/296266
+#EXTINF:0 group-title="Channels INDIA",Anjan TV
+http://iptvtree.net:8080/F26646/f950f250/286918
+#EXTINF:0 group-title="Channels INDIA",Artist Aloud
+http://iptvtree.net:8080/F26646/f950f250/286920
+#EXTINF:0 group-title="Channels INDIA",Ashrafi Channel
+http://iptvtree.net:8080/F26646/f950f250/286921
+#EXTINF:0 group-title="Channels INDIA",Asianet
+http://iptvtree.net:8080/F26646/f950f250/82579
+#EXTINF:0 group-title="Channels INDIA",Asianet Movies
+http://iptvtree.net:8080/F26646/f950f250/157463
+#EXTINF:0 group-title="Channels INDIA",B4U Bhojpuri
+http://iptvtree.net:8080/F26646/f950f250/197946
+#EXTINF:0 group-title="Channels INDIA",B4U Hitz
+http://iptvtree.net:8080/F26646/f950f250/286926
+#EXTINF:0 group-title="Channels INDIA",B4U Kadak
+http://iptvtree.net:8080/F26646/f950f250/49556
+#EXTINF:0 group-title="Channels INDIA",B4U Movies
+http://iptvtree.net:8080/F26646/f950f250/1369
+#EXTINF:0 group-title="Channels INDIA",B4U Movies APAC
+http://iptvtree.net:8080/F26646/f950f250/71071
+#EXTINF:0 group-title="Channels INDIA",B4U Music
+http://iptvtree.net:8080/F26646/f950f250/1368
+#EXTINF:0 group-title="Channels INDIA",B4U Plus
+http://iptvtree.net:8080/F26646/f950f250/1367
+#EXTINF:0 group-title="Channels INDIA",Balle Balle
+http://iptvtree.net:8080/F26646/f950f250/49555
+#EXTINF:0 group-title="Channels INDIA",BBO CLASSIC
+http://iptvtree.net:8080/F26646/f950f250/267194
+#EXTINF:0 group-title="Channels INDIA",Bflix+ Movies
+http://iptvtree.net:8080/F26646/f950f250/73791
+#EXTINF:0 group-title="Channels INDIA",Bhojpuri Cinema
+http://iptvtree.net:8080/F26646/f950f250/193007
+#EXTINF:0 group-title="Channels INDIA",Big Ganga Talkies
+http://iptvtree.net:8080/F26646/f950f250/49573
+#EXTINF:0 group-title="Channels INDIA",Big Magic
+http://iptvtree.net:8080/F26646/f950f250/49548
+#EXTINF:0 group-title="Channels INDIA",Bindass
+http://iptvtree.net:8080/F26646/f950f250/145655
+#EXTINF:0 group-title="Channels INDIA",Blessing TV
+http://iptvtree.net:8080/F26646/f950f250/299489
+#EXTINF:0 group-title="Channels INDIA",Bollywood Prime
+http://iptvtree.net:8080/F26646/f950f250/300626
+#EXTINF:0 group-title="Channels INDIA",Boogle Bollywood
+http://iptvtree.net:8080/F26646/f950f250/193087
+#EXTINF:0 group-title="Channels INDIA",Brit Asia TV
+http://iptvtree.net:8080/F26646/f950f250/71067
+#EXTINF:0 group-title="Channels INDIA",Captain TV
+http://iptvtree.net:8080/F26646/f950f250/294952
+#EXTINF:0 group-title="Channels INDIA",Cartoon Network
+http://iptvtree.net:8080/F26646/f950f250/82584
+#EXTINF:0 group-title="Channels INDIA",Channel i
+http://iptvtree.net:8080/F26646/f950f250/296496
+#EXTINF:0 group-title="Channels INDIA",Channel WIN
+http://iptvtree.net:8080/F26646/f950f250/172318
+#EXTINF:0 group-title="Channels INDIA",Channel Y
+http://iptvtree.net:8080/F26646/f950f250/49586
+#EXTINF:0 group-title="Channels INDIA",Cinema tv
+http://iptvtree.net:8080/F26646/f950f250/192949
+#EXTINF:0 group-title="Channels INDIA",Colors
+http://iptvtree.net:8080/F26646/f950f250/1366
+#EXTINF:0 group-title="Channels INDIA",Colors Bangla
+http://iptvtree.net:8080/F26646/f950f250k/247530
+#EXTINF:0 group-title="Channels INDIA",Colors Cineplex
+http://iptvtree.net:8080/F26646/f950f250/19741
+#EXTINF:0 group-title="Channels INDIA",Colors Cineplex Bollywood
+http://iptvtree.net:8080/F26646/f950f250/49550
+#EXTINF:0 group-title="Channels INDIA",Colors Cineplex SuperHits
+http://iptvtree.net:8080/F26646/f950f250/299844
+#EXTINF:0 group-title="Channels INDIA",Colors Gujarati
+http://iptvtree.net:8080/F26646/f950f250/145645
+#EXTINF:0 group-title="Channels INDIA",Colors Kannada
+http://iptvtree.net:8080/F26646/f950f250/192203
+#EXTINF:0 group-title="Channels INDIA",Colors Marathi
+http://iptvtree.net:8080/F26646/f950f250/82642
+#EXTINF:0 group-title="Channels INDIA",Colors Rishtey
+http://iptvtree.net:8080/F26646/f950f250/49547
+#EXTINF:0 group-title="Channels INDIA",Dabangg
+http://iptvtree.net:8080/F26646/f950f250/165800
+#EXTINF:0 group-title="Channels INDIA",Dangal TV
+http://iptvtree.net:8080/F26646/f950f250/82589
+#EXTINF:0 group-title="Channels INDIA",Dhoom Music
+http://iptvtree.net:8080/F26646/f950f250/69362
+#EXTINF:0 group-title="Channels INDIA",Dil Se Movies
+http://iptvtree.net:8080/F26646/f950f250/165784
+#EXTINF:0 group-title="Channels INDIA",Dillagi
+http://iptvtree.net:8080/F26646/f950f250/196128
+#EXTINF:0 group-title="Channels INDIA",Discovery Channel
+http://iptvtree.net:8080/F26646/f950f250295292
+#EXTINF:0 group-title="Channels INDIA",Discovery Kids
+http://iptvtree.net:8080/F26646/f950f250/82683
+#EXTINF:0 group-title="Channels INDIA",Discovery Science
+http://iptvtree.net:8080/F26646/f950f250/1363
+#EXTINF:0 group-title="Channels INDIA",Discovery World
+http://iptvtree.net:8080/F26646/f950f250/73792
+#EXTINF:0 group-title="Channels INDIA",Disney Channel
+http://iptvtree.net:8080/F26646/f950f250/192985
+#EXTINF:0 group-title="Channels INDIA",Divyavani TV
+http://iptvtree.net:8080/F26646/f950f250/166373
+#EXTINF:0 group-title="Channels INDIA",Enterr 10
+http://iptvtree.net:8080/F26646/f950f250/193025
+#EXTINF:0 group-title="Channels INDIA",Epic TV
+http://iptvtree.net:8080/F26646/f950f250/192950
+#EXTINF:0 group-title="Channels INDIA",ET Now
+http://iptvtree.net:8080/F26646/f950f250/82513
+#EXTINF:0 group-title="Channels INDIA",ETV CINEMA
+http://iptvtree.net:8080/F26646/f950f250/193198
+#EXTINF:0 group-title="Channels INDIA",ETV PLUS
+http://iptvtree.net:8080/F26646/f950f250/193101
+#EXTINF:0 group-title="Channels INDIA",ETV Telangana
+http://iptvtree.net:8080/F26646/f950f250/283906
+#EXTINF:0 group-title="Channels INDIA",Fast Way News
+http://iptvtree.net:8080/F26646/f950f250/267402
+#EXTINF:0 group-title="Channels INDIA",Fateh TV
+http://iptvtree.net:8080/F26646/f950f250/166370
+#EXTINF:0 group-title="Channels INDIA",Filamchi Bhojpuri
+http://iptvtree.net:8080/F26646/f950f250/272573
+#EXTINF:0 group-title="Channels INDIA",Flowers TV
+http://iptvtree.net:8080/F26646/f950f250/193148
+#EXTINF:0 group-title="Channels INDIA",Food Food
+http://iptvtree.net:8080/F26646/f950f250/1362
+#EXTINF:0 group-title="Channels INDIA",Gemini
+http://iptvtree.net:8080/F26646/f950f250/165794
+#EXTINF:0 group-title="Channels INDIA",Gemini Comedy
+http://iptvtree.net:8080/F26646/f950f250/264710
+#EXTINF:0 group-title="Channels INDIA",Gemini Movies
+http://iptvtree.net:8080/F26646/f950f250/297557
+#EXTINF:0 group-title="Channels INDIA",Gemini Music
+http://iptvtree.net:8080/F26646/f950f250/297558
+#EXTINF:0 group-title="Channels INDIA",History
+http://iptvtree.net:8080/F26646/f950f250/82604
+#EXTINF:0 group-title="Channels INDIA",HMTV
+http://iptvtree.net:8080/F26646/f950f250/193056
+#EXTINF:0 group-title="Channels INDIA",Hulchul TV Canada
+http://iptvtree.net:8080/F26646/f950f250/49630
+#EXTINF:0 group-title="Channels INDIA",Hungama TV
+http://iptvtree.net:8080/F26646/f950f250/267168
+#EXTINF:0 group-title="Channels INDIA",Jan TV
+http://iptvtree.net:8080/F26646/f950f250/193176
+#EXTINF:0 group-title="Channels INDIA",Janam TV
+http://iptvtree.net:8080/F26646/f950f250/197720
+#EXTINF:0 group-title="Channels INDIA",Janta TV
+http://iptvtree.net:8080/F26646/f950f250/60348
+#EXTINF:0 group-title="Channels INDIA",Jaya Max
+http://iptvtree.net:8080/F26646/f950f250/51824
+#EXTINF:0 group-title="Channels INDIA",Jaya Plus
+http://iptvtree.net:8080/F26646/f950f250/193207
+#EXTINF:0 group-title="Channels INDIA",Jaya TV
+http://iptvtree.net:8080/F26646/f950f250/145637
+#EXTINF:0 group-title="Channels INDIA",Jeevan TV
+http://iptvtree.net:8080/F26646/f950f250/166377
+#EXTINF:0 group-title="Channels INDIA",Jhanjar Music
+http://iptvtree.net:8080/F26646/f950f250/82522
+#EXTINF:0 group-title="Channels INDIA",Jigyasa TV
+http://iptvtree.net:8080/F26646/f950f250/275982
+#EXTINF:0 group-title="Channels INDIA",just flix
+http://iptvtree.net:8080/F26646/f950f250/300627
+#EXTINF:0 group-title="Channels INDIA",Kadak Hits
+http://iptvtree.net:8080/F26646/f950f250/82523
+#EXTINF:0 group-title="Channels INDIA",KCL TV
+http://iptvtree.net:8080/F26646/f950f250k/286959
+#EXTINF:0 group-title="Channels INDIA",KCV
+http://iptvtree.net:8080/F26646/f950f250/286960
+#EXTINF:0 group-title="Channels INDIA",KCV Movies
+http://iptvtree.net:8080/F26646/f950f250/286961
+#EXTINF:0 group-title="Channels INDIA",Kerala Vision
+http://iptvtree.net:8080/F26646/f950f250/267445
+#EXTINF:0 group-title="Channels INDIA",Maha Movie
+http://iptvtree.net:8080/F26646/f950f250/82608
+#EXTINF:0 group-title="Channels INDIA",Makkal TV
+http://iptvtree.net:8080/F26646/f950f250/51821
+#EXTINF:0 group-title="Channels INDIA",Manoranjan Movies
+http://iptvtree.net:8080/F26646/f950f250/192200
+#EXTINF:0 group-title="Channels INDIA",Manoranjan TV
+http://iptvtree.net:8080/F26646/f950f250/295501
+#EXTINF:0 group-title="Channels INDIA",Mastiii
+http://iptvtree.net:8080/F26646/f950f250/76958
+#EXTINF:0 group-title="Channels INDIA",Mh 1 Music
+http://iptvtree.net:8080/F26646/f950f250/198604
+#EXTINF:0 group-title="Channels INDIA",Moon TV
+http://iptvtree.net:8080/F26646/f950f250/297560
+#EXTINF:0 group-title="Channels INDIA",Movies Now
+http://iptvtree.net:8080/F26646/f950f250/169118
+#EXTINF:0 group-title="Channels INDIA",MTV Beats
+http://iptvtree.net:8080/F26646/f950f250/193068
+#EXTINF:0 group-title="Channels INDIA",MTV India
+http://iptvtree.net:8080/F26646/f950f250/193647
+#EXTINF:0 group-title="Channels INDIA",Music India
+http://iptvtree.net:8080/F26646/f950f250/1358
+#EXTINF:0 group-title="Channels INDIA",Only Music
+http://iptvtree.net:8080/F26646/f950f250/264726
+#EXTINF:0 group-title="Channels INDIA", Public Music
+http://iptvtree.net:8080/F26646/f950f250/192145
+#EXTINF:0 group-title="Channels INDIA",Raj Digital Plus
+http://iptvtree.net:8080/F26646/f950f250/60418
+#EXTINF:0 group-title="Channels INDIA",Raj Musix Telugu
+http://iptvtree.net:8080/F26646/f950f250/193137
+#EXTINF:0 group-title="Channels INDIA",Raj TV
+http://iptvtree.net:8080/F26646/f950f250/193125
+#EXTINF:0 group-title="Channels INDIA",Relax TV
+http://iptvtree.net:8080/F26646/f950f250/287018
+#EXTINF:0 group-title="Channels INDIA",Shemaroo Bollywood
+http://iptvtree.net:8080/F26646/f950f250/300653
+#EXTINF:0 group-title="Channels INDIA",ShowBox
+http://iptvtree.net:8080/F26646/f950f250/192998
+#EXTINF:0 group-title="Channels INDIA",Sonic
+http://iptvtree.net:8080/F26646/f950f250/299854
+#EXTINF:0 group-title="Channels INDIA",Sonic Nickelodeon
+http://iptvtree.net:8080/F26646/f950f250/192988
+#EXTINF:0 group-title="Channels INDIA",Sony (Set India)
+http://iptvtree.net:8080/F26646/f950f250/281867
+#EXTINF:0 group-title="Channels INDIA",Sony Aath
+http://iptvtree.net:8080/F26646/f950f250/17005
+#EXTINF:0 group-title="Channels INDIA",Sony BBC Earth
+http://iptvtree.net:8080/F26646/f950f250/192995
+#EXTINF:0 group-title="Channels INDIA",Sony Marathi
+http://iptvtree.net:8080/F26646/f950f250/193097
+#EXTINF:0 group-title="Channels INDIA",Sony Max
+http://iptvtree.net:8080/F26646/f950f250/1359
+#EXTINF:0 group-title="Channels INDIA",Sony Max 2
+http://iptvtree.net:8080/F26646/f950f250/4862
+#EXTINF:0 group-title="Channels INDIA",Sony Max India
+http://iptvtree.net:8080/F26646/f950f250/63397
+#EXTINF:0 group-title="Channels INDIA",Sony Pal
+http://iptvtree.net:8080/F26646/f950f250/193645
+#EXTINF:0 group-title="Channels INDIA",Sony Pix
+http://iptvtree.net:8080/F26646/f950f250/49539
+#EXTINF:0 group-title="Channels INDIA",Sony SAB
+http://iptvtree.net:8080/F26646/f950f250/1073
+#EXTINF:0 group-title="Channels INDIA",Sony Six
+http://iptvtree.net:8080/F26646/f950f250/4853
+#EXTINF:0 group-title="Channels INDIA",Sony sport 5
+http://iptvtree.net:8080/F26646/f950f250/300654
+#EXTINF:0 group-title="Channels INDIA",Sony Sports Ten 1
+http://iptvtree.net:8080/F26646/f950f25016622
+#EXTINF:0 group-title="Channels INDIA",Sony Sports Ten 2
+http://iptvtree.net:8080/F26646/f950f250/16621
+#EXTINF:0 group-title="Channels INDIA",Sony Sports Ten 3
+http://iptvtree.net:8080/F26646/f950f250/56191
+#EXTINF:0 group-title="Channels INDIA",Sony Wah
+http://iptvtree.net:8080/F26646/f950f250/165801
+#EXTINF:0 group-title="Channels INDIA",Sony Yay!
+http://iptvtree.net:8080/F26646/f950f250/1355
+#EXTINF:0 group-title="Channels INDIA",Star Bharat
+http://iptvtree.net:8080/F26646/f950f250284583
+#EXTINF:0 group-title="Channels INDIA",Star Gold
+http://iptvtree.net:8080/F26646/f950f250/1070
+#EXTINF:0 group-title="Channels INDIA",Star Gold 2
+http://iptvtree.net:8080/F26646/f950f250/43919
+#EXTINF:0 group-title="Channels INDIA",Star Gold Select
+http://iptvtree.net:8080/F26646/f950f250/297547
+#EXTINF:0 group-title="Channels INDIA",Star Jalsha
+http://iptvtree.net:8080/F26646/f950f250/12979
+#EXTINF:0 group-title="Channels INDIA",Star Maa Movies
+http://iptvtree.net:8080/F26646/f950f250/82624
+#EXTINF:0 group-title="Channels INDIA",Star Movies
+http://iptvtree.net:8080/F26646/f950f250/11511
+#EXTINF:0 group-title="Channels INDIA",Star Movies Select
+http://iptvtree.net:8080/F26646/f950f250/267542
+#EXTINF:0 group-title="Channels INDIA",Star Plus
+http://iptvtree.net:8080/F26646/f950f250/16091
+#EXTINF:0 group-title="Channels INDIA",Star Pravah
+http://iptvtree.net:8080/F26646/f950f250/193149
+#EXTINF:0 group-title="Channels INDIA",Star Sports 1
+http://iptvtree.net:8080/F26646/f950f250/3630
+#EXTINF:0 group-title="Channels INDIA",Star Sports 2
+http://iptvtree.net:8080/F26646/f950f250/3631
+#EXTINF:0 group-title="Channels INDIA",Star Sports 3
+http://iptvtree.net:8080/F26646/f950f250/62584
+#EXTINF:0 group-title="Channels INDIA",Star Sports Select 1
+http://iptvtree.net:8080/F26646/f950f250/82628
+#EXTINF:0 group-title="Channels INDIA",Star Sports Select 2
+http://iptvtree.net:8080/F26646/f950f250/16619
+#EXTINF:0 group-title="Channels INDIA",Star Suvarna
+http://iptvtree.net:8080/F26646/f950f250/193147
+#EXTINF:0 group-title="Channels INDIA",Star Vijay
+http://iptvtree.net:8080/F26646/f950f250/19744
+#EXTINF:0 group-title="Channels INDIA",Steelbird Music
+http://iptvtree.net:8080/F26646/f950f250/49650
+#EXTINF:0 group-title="Channels INDIA",Sun Music
+http://iptvtree.net:8080/F26646/f950f250/157496
+#EXTINF:0 group-title="Channels INDIA",Sun News
+http://iptvtree.net:8080/F26646/f950f250/295303
+#EXTINF:0 group-title="Channels INDIA",Sun TV
+http://iptvtree.net:8080/F26646/f950f250/76969
+#EXTINF:0 group-title="Channels INDIA",Surya
+http://iptvtree.net:8080/F26646/f950f250/193144
+#EXTINF:0 group-title="Channels INDIA",Surya Comedy
+http://iptvtree.net:8080/F26646/f950f250/299842
+#EXTINF:0 group-title="Channels INDIA",Surya Movies
+http://iptvtree.net:8080/F26646/f950f250/193145
+#EXTINF:0 group-title="Channels INDIA",Surya Music
+http://iptvtree.net:8080/F26646/f950f250/299843
+#EXTINF:0 group-title="Channels INDIA",SVBC
+http://iptvtree.net:8080/F26646/f950f250/166383
+#EXTINF:0 group-title="Channels INDIA",Utsav Bharat
+http://iptvtree.net:8080/F26646/f950f250/16614
+#EXTINF:0 group-title="Channels INDIA", Utsav Gold
+http://iptvtree.net:8080/F26646/f950f250/82623
+#EXTINF:0 group-title="Channels INDIA",Utsav Plus
+http://iptvtree.net:8080/F26646/f950f250/60347
+#EXTINF:0 group-title="Channels INDIA",Wow Cinema One
+http://iptvtree.net:8080/F26646/f950f250/197945
+#EXTINF:0 group-title="Channels INDIA",Zee 24 Ghanta
+http://iptvtree.net:8080/F26646/f950f250/193187
+#EXTINF:0 group-title="Channels INDIA",Zee 24 Kalak
+http://iptvtree.net:8080/F26646/f950f250/45484
+#EXTINF:0 group-title="Channels INDIA",Zee Action
+http://iptvtree.net:8080/F26646/f950f250/1353
+#EXTINF:0 group-title="Channels INDIA",Zee Aflam
+http://iptvtree.net:8080/F26646/f950f250/22067
+#EXTINF:0 group-title="Channels INDIA",Zee Anmol Cinema
+http://iptvtree.net:8080/F26646/f950f250/19467
+#EXTINF:0 group-title="Channels INDIA",Zee Bangla
+http://iptvtree.net:8080/F26646/f950f250/145632
+#EXTINF:0 group-title="Channels INDIA",Zee Bangla Cinema
+http://iptvtree.net:8080/F26646/f950f250/21658
+#EXTINF:0 group-title="Channels INDIA",Zee Biskope
+http://iptvtree.net:8080/F26646/f950f250/193009
+#EXTINF:0 group-title="Channels INDIA",Zee Bollywood
+http://iptvtree.net:8080/F26646/f950f250/1351
+#EXTINF:0 group-title="Channels INDIA",Zee Business
+http://iptvtree.net:8080/F26646/f950f250/16984
+#EXTINF:0 group-title="Channels INDIA",Zee Café
+http://iptvtree.net:8080/F26646/f950f250/49561
+#EXTINF:0 group-title="Channels INDIA",Zee Cinema Asia
+http://iptvtree.net:8080/F26646/f950f250/1350
+#EXTINF:0 group-title="Channels INDIA",Zee Cinemalu
+http://iptvtree.net:8080/F26646/f950f250/45504
+#EXTINF:0 group-title="Channels INDIA",Zee Classic
+http://iptvtree.net:8080/F26646/f950f250/21578
+#EXTINF:0 group-title="Channels INDIA",Zee Hindustan
+http://iptvtree.net:8080/F26646/f950f250/145633
+#EXTINF:0 group-title="Channels INDIA",Zee Kannada
+http://iptvtree.net:8080/F26646/f950f250/145631
+#EXTINF:0 group-title="Channels INDIA",Zee Keralam
+http://iptvtree.net:8080/F26646/f950f250/193146
+#EXTINF:0 group-title="Channels INDIA",Zee Magic
+http://iptvtree.net:8080/F26646/f950f250/281920
+#EXTINF:0 group-title="Channels INDIA",Zee Marathi
+http://iptvtree.net:8080/F26646/f950f250/82646
+#EXTINF:0 group-title="Channels INDIA",Zee News
+http://iptvtree.net:8080/F26646/f950f250/5047
+#EXTINF:0 group-title="Channels INDIA",Zee Picchar
+http://iptvtree.net:8080/F26646/f950f250/192201
+#EXTINF:0 group-title="Channels INDIA",Zee Punjab Haryana Himachal
+http://iptvtree.net:8080/F26646/f950f250/299924
+#EXTINF:0 group-title="Channels INDIA",Zee Punjabi
+http://iptvtree.net:8080/F26646/f950f250/145630
+#EXTINF:0 group-title="Channels INDIA",ZEE Rajasthan News
+http://iptvtree.net:8080/F26646/f950f250/299922
+#EXTINF:0 group-title="Channels INDIA",Zee Salaam
+http://iptvtree.net:8080/F26646/f950f250/16981
+#EXTINF:0 group-title="Channels INDIA",Zee Talkies
+http://iptvtree.net:8080/F26646/f950f250/16957
+#EXTINF:0 group-title="Channels INDIA",Zee Tamil
+http://iptvtree.net:8080/F26646/f950f250/45505
+#EXTINF:0 group-title="Channels INDIA",Zee Telugu
+http://iptvtree.net:8080/F26646/f950f250/21561
+#EXTINF:0 group-title="Channels INDIA",Zee TV
+http://iptvtree.net:8080/F26646/f950f250/1348
+#EXTINF:0 group-title="Channels INDIA",Zee World
+http://iptvtree.net:8080/F26646/f950f250/172264
+#EXTINF:0 group-title="Channels INDIA",Zing
+http://iptvtree.net:8080/F26646/f950f250/1347
+#EXTINF:0 group-title="Channels INDIA",Zoom
+http://iptvtree.net:8080/F26646/f950f250/192069
+
+
+=========================================== INDIA ===========================================
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Zee India
+http://103.120.172.74:1040
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star India
+http://103.120.172.74:1060
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Colors
+http://103.120.172.74:1070
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",India news
+http://103.120.172.74:1090
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",DD news
+http://103.120.172.74:1170
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",MTV
+http://103.120.172.74:4400
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star sports2
+http://103.120.172.74:4800
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Star India
+http://103.120.172.74:5200
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1 group-title="INDIA" tvg-logo="none",NDTV
+http://103.120.172.74:5500
+
+
+=============RADIO INDONESIA=============
+
+
+#EXTINF:-1 group-title="RADIO INDONESIA",SUARA SONETA
+http://bit.ly/478oXj1
+#EXTINF:-1 group-title="RADIO INDONESIA",PERSADA FM
+http://c4.siar.us:8038/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",RONGGOHADI FM
+https://c3.siar.us/proxy/ronggohadifm/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",PRADYA SUARA FM TUBAN
+http://pu.klikhost.com:8012/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",SIFM TUBAN
+http://i.klikhost.com:8184/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",NUR FM REMBANG
+http://sci.streamingmurah.com:8002/live
+#EXTINF:-1 group-title="RADIO INDONESIA",CBFM REMBANG
+https://i.klikhost.com/8358/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",R2B REMBANG
+https://i.klikhost.com/8892/;
+#EXTINF:-1 group-title="RADIO INDONESIA",HARBOS FM
+https://bit.ly/479Jdks
+#EXTINF:-1 group-title="RADIO INDONESIA",PAS FM PATI
+http://45.64.97.82:8886/stream/1/
+#EXTINF:-1 group-title="RADIO INDONESIA",JOSS FM NGANJUK
+https://static-s7.xajist.com/sslstream/8198
+#EXTINF:-1 group-title="RADIO INDONESIA",SUARA GIRI FM
+http://streaming.girifm.com:8010/;stream
+#EXTINF:-1 group-title="RADIO INDONESIA",WIJAYA FM
+http://wijayafm.onlivestreaming.net:9880/103,50%20Wijayaaaaaaa
+#EXTINF:-1 group-title="RADIO INDONESIA",GAJAHMADA FM
+https://server.radioimeldafm.co.id/listen/gajahmadafm/gajahmadafm
+#EXTINF:-1 group-title="RADIO INDONESIA",IMELDA FM
+https://server.radioimeldafm.co.id:8030/imeldafm
+#EXTINF:-1 group-title="RADIO INDONESIA",WALI SONGO FM
+http://i.klikhost.net/8092/;
+#EXTINF:-1 group-title="RADIO INDONESIA",R-LISA FM
+https://bit.ly/49x6Xkc
+#EXTINF:-1 group-title="RADIO INDONESIA",SUARA KOTA WALI DEMAK
+https://a2.siar.us/listen/radiodemak/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",SUARA JUWANA
+http://i.klikhost.com:9014/;stream.nsv
+#EXTINF:-1 group-title="RADIO INDONESIA",RADIO MENDHUT
+http://c4.siar.us:8790/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",RADIO MUSIK INDONESIA
+https://stream-157.zeno.fm/av6xzace6ehvv?zs=abY0twdeTSid2Uxkz1GMJQ
+#EXTINF:-1 group-title="RADIO INDONESIA",RADIO CAMPUR SARI
+https://a8.siar.us/listen/campursari/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",TEMBANG KENANGAN
+http://scg.streamingmurah.com:7777/;
+#EXTINF:-1 group-title="RADIO INDONESIA",MADU FM
+https://stream-153.zeno.fm/z1bs88ttrfhvv?zs=9oXtwZxiRoS51w0qOHHZwg
+#EXTINF:-1 group-title="RADIO INDONESIA",MAX RADIO
+http://live.serverstreaming.net:8090/max-radio
+#EXTINF:-1 group-title="RADIO INDONESIA",NITNUT RADIO
+http://103.179.56.26:8000/radio.aac
+#EXTINF:-1 group-title="RADIO INDONESIA",FAJAR FM
+https://bit.ly/3u7o37Y
+#EXTINF:-1 group-title="RADIO INDONESIA",SEMERU FM
+https://bit.ly/3SHWLz4
+#EXTINF:-1 group-title="RADIO INDONESIA",RADIO DMC
+http://id.radioimzers.com:5758/;?1695727869741
+#EXTINF:-1 group-title="RADIO INDONESIA",SUZANA FM
+http://streaming.suzanafm.com:8000/;stream.nsv
+#EXTINF:-1 group-title="RADIO INDONESIA",RADIO SHOLAWAT
+https://stream-152.zeno.fm/us5bsznu3rptv?zs=qLo1OC4OQJS18HQJh071ug
+#EXTINF:-1 group-title="RADIO INDONESIA",POP FM KUDUS
+https://r2.siar.us:8700/suarakudus
+#EXTINF:-1 group-title="RADIO INDONESIA",POP FM SEMARANG
+http://i.klikhost.com:9612/;
+#EXTINF:-1 group-title="RADIO INDONESIA",RDI JAKARTA
+http://202.147.199.99:8000/stream/1/
+#EXTINF:-1 group-title="RADIO INDONESIA",NAGASWARA DIGITAL
+https://live.nagaswarafm.com:8088/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",NAGASWARA DANCE DHUT
+https://live.nagaswarafm.com/nagaswaradance/stream
+#EXTINF:-1 group-title="RADIO INDONESIA",NAGASWARA POP
+https://live.nagaswarafm.com/nagaswarapop/stream
+
+
+==============RADIO INDIA==================
+
+#EXTINF:-1 group-title="RADIO INDIA",KUMAR SANU RADIO
+https://stream-157.zeno.fm/70nen96vgs8uv?zs=Vb_b-oZLT8uhQCi9JJgqCg
+#EXTINF:-1 group-title="RADIO INDIA",ALKA YAGNIK RADIO
+https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",UDIT NARAYAN RADIO
+https://stream-161.zeno.fm/ke8m4vr3ss8uv?zs=7-hb7d88Sre70faBaQkRjQ
+#EXTINF:-1 group-title="RADIO INDIA",SONU NIGAM RADIO
+https://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",SHREYA GOSHAL RADIO
+https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",ARIJIT SINGH RADIO
+https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",BOLLYWOOD 90'S ROMANTIC RADIO
+http://158.69.254.140:8098/stream
+#EXTINF:-1 group-title="RADIO INDIA",BOLLYWOOD SAD SONGS
+https://stream-150.zeno.fm/yvqymrxdxi7vv?zs=mZUru5oLQxmUANF8TayjdQ
+#EXTINF:-1 group-title="RADIO INDIA",HINDI DESI BOLLYWOOD EVERGREEN HITS
+http://cast2.asurahosting.com:8569/stream
+#EXTINF:-1 group-title="RADIO INDIA",RETRO BOLLYWOOD
+https://stream-142.zeno.fm/g372rxef798uv?zs=zKnPij6mQ2-i-51tQ2dLFA
+#EXTINF:-1 group-title="RADIO INDIA",BEST BOLLYWOOD 90'S
+https://stream-141.zeno.fm/u0hrd3xkzhhvv?zs=--jfKarhQ-K5zHGC77B-ZA
+https://radioindia.net/radio/hungamamasti/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",RADIO CITY HINDI
+https://stream-147.zeno.fm/u7sgq72zrf9uv?zs=m9m_WJIBSdyZgnk0bK6t0A
+#EXTINF:-1 group-title="RADIO INDIA",RADIO ISHQ
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",NONSTOP HINDI
+http://158.69.254.140:8168/stream
+#EXTINF:-1 group-title="RADIO INDIA",RADIO MIRCHI
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 group-title="RADIO INDIA",RADIO MIRCHI LOVE
+https://drive.uber.radio/uber/lrbollywood/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",RADIO BADAL
+https://stream-147.zeno.fm/nhrtcxg09u8uv?zs=iiYW0OmMRtWGmNv0IqRd8w
+#EXTINF:-1 group-title="RADIO INDIA",MIRCHI 90'S RADIO
+https://sp14.instainternet.com/8098/stream
+#EXTINF:-1 group-title="RADIO INDIA",RADIO DILSE
+https://cp3.shoutcheap.com:18180/stream
+#EXTINF:-1 group-title="RADIO INDIA",BOLLYWOOD 90'S RADIO
+https://stream-149.zeno.fm/rm4i9pdex3cuv?zs=nywOJBPKQcKfapkqRzlJNg
+#EXTINF:-1 group-title="RADIO INDIA",BOLLY HITS
+http://hoth.alonhosting.com:1100/stream
+#EXTINF:-1 group-title="RADIO INDIA",BOLLYWOOD LOVE
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+#EXTINF:-1 group-title="RADIO INDIA",NOSTALGIC BOLLYWOOD 90'S
+https://www.desizoneradio.com/relay3
+#EXTINF:-1 group-title="RADIO INDIA",HITS OF BOLLYWOOD
+https://stream-140.zeno.fm/a2gyqzwpwfeuv?zs=ihNvr1ZGQHavUBr9frJ_AQ
