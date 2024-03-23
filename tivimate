@@ -37,6 +37,20 @@ http://103.226.232.196:8000/play/a015/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.226.232.196:8000/play/a016/index.m3u8
 
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="LOKAL", RCTI FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="LOKAL", GTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="LOKAL", ANTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a009/index.m3u8
+
+
+
 #EXTINF:-1 group-title="NASIONAL",Rock Action
 https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 
