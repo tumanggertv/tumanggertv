@@ -2367,3 +2367,92 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
+
+
+
+≈=== bwh tanah ======
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wyGv4WibB9W35VvQJcSDzg","kid":"wkp4EdmrRrSLdGoOfiaSEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="701.astro" tvg-name="AXN HD" group-title="AOTG All;Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",701 AXN HD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GDs+r6TILmj3TEJE1UkGsA","kid":"jeEeAF21vQ24IogUhjzTEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="703.astro" tvg-name="Lifetime" group-title="AOTG All;Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png" ch-number="703",703 Lifetime FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="706.astro" tvg-name="HITS HD" group-title="AOTG All;Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png" ch-number="706",706 Hits FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+DJvZox77jCeUwK1E+W99w","kid":"YJPhJjmyTNZR7ms8E0RtEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="712.astro" tvg-name="WARNER TV" group-title="AOTG All;Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="712",712 Warner TV FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"padw2I5EA3cvNuIxPo4y0A","kid":"//WSeiJJ8JT6N3PDkClAEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ParamountNetwork" tvg-name="Paramount" group-title="AOTG All;Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png" ch-number="713",713 Paramount FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IvlkptaSfM26SC53XN/xkA","kid":"OsJUKk9750ZjPbB2R0UXEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="718.astro" tvg-name="MTV HD" group-title="AOTG All;Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png" ch-number="718",718 MTV Live FHD  
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rtncAgOHJarb0Me9FwkkCw","kid":"iCm49NkdJjDzmMZ+2UwjEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="TUTOR TV" group-title="AOTG All;Education" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/128_144.png" ch-number="603",603 Astro Tutor TV SMK FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3MvfBDrEPRi+Cz60Olgodg","kid":"tb/jVU3yq803r+Ewp+HTEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="612.astro" tvg-name="Dreamworks" group-title="AOTG All;Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" ch-number="612",612 Dreamworks FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"icX/n45lx/6WavvS+RKOXw","kid":"GgW+v3BkCEMaOQw/n0D0EA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="615.astro" tvg-name="CARTOON NTWK HD" group-title="AOTG All;Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" ch-number="615",615 Cartoon Network FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vaX3u8HkQJb3eaBhn+mIHw","kid":"2FIOlqEoOrblvlOEdL+oEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="616.astro" tvg-name"NICKELODEON HD" group-title="AOTG All;Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",616 Nickelodeon FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tKu+6Vtps+gKDRQScshw2w","kid":"+mUiDJ925CQXOJnfUzptEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="617.astro" tvg-name"NICK JR" group-title="AOTG All;Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="617",617 Nick Jr FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"irCTravcNDuHNLfs8K6hGg","kid":"48t0mXEHhusQX6t7UkWZEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="618.astro" tvg-name"Moonbug Kids" group-title="AOTG All;Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png" ch-number="618",618 Moonbug Kids FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="620.astro" tvg-name="CBeebies" group-title="AOTG All;Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png" ch-number="620",620 CBeebies FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y54aEi7RxkRffT/SFiNY8Q","kid":"/hIZAZqfNs3vNHCI5ZLKEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="310.astro" tvg-chno="301" tvg-name="TVBJ" group-title="AOTG All;Chinese" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" ch-number="310",310 TVB Jade FHD
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+
