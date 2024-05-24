@@ -417,6 +417,11 @@ https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/dpzomifbirnqpq3/Rakuten%20tv.png" group-title="MOVIES", Rakuten Movies 
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="MOVIE",Indonesia Movie Channel
+https://testfunctionlive.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 =====NEWS=====
 
@@ -652,17 +657,6 @@ https://wildearth-roku.amagi.tv/master.m3u8
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
 
 ==HBO GROUP=====
-
-#EXTINF:-1 tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax 1
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO (CUBmu)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
