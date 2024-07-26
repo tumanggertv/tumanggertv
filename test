@@ -1,13 +1,3 @@
-#EXTM3U billed-msg="LIVE EVENT TIAP HARI"
-#EXTM3U x-tvg-url="https://12537-stream-ip-tv.xyz/global/epg.xml.gz,https://x1.broiptv.com/epg-broiptv" refresh=3600 tvg-shift=0
-
-
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="DONASI" tvg-logo="http://onlivestream.whf.bz/live/live.png",DONASI : https://sociabuzz.com/onlivestreamfree/tribe
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium49/index.m3u8|Origin=https://claplivehdplay.ru
-
-===============================================================================================================================================
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="LIVE | EVENT" tvg-logo="http://onlivestream.whf.bz/live/live.png",23:00 - Erzgebirge Aue vs Borussia Dortmund
 #KODIPROP:inputstream.adaptive.license_type=clearkey
