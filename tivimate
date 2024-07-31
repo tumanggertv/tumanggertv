@@ -77,6 +77,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
 
+#EXTINF:-1 group-title="Knowledge " tvg-id="sonybbcearth.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png",Sony BBC Earth 
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sonyliv/master.m3u8?id=1000009252
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ss4liga1.png", Sportstars 4 Line 2
