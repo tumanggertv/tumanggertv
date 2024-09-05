@@ -72,8 +72,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://", SCTV HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zxwmac9.png" group-title="NASIONAL" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
