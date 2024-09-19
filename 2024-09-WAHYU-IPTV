@@ -1,0 +1,1156 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/koreapremium.xml,https://www.bevy.be/bevyfiles/japan.xml,  https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/vietnam.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml",  refresh="23"
+
+#EXTINF:-1 tvg-id="Makkah TV" tvg-name="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="01. Religi TV", Makkah TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
+https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
+
+#EXTINF:-1 tvg-ID="" tvg-name="Rodja TV" tvg-logo="https://aldysefan.wordpress.com/wp-content/uploads/2012/05/rodja_tv-logo.png" group-title="01. Religi TV",Rodja TV
+#https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
+#https://cdn08jtedge.indihometv.com/dassdvr/130/rodjatv/manifest.mpd
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 group-title="01. Religi TV" tvg-logo="https://www.surau.tv/images/logosurautvvalid.png",Surau TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mqtv.co.id/file-data/2024/06/Logo_MQTV_Original.webp" group-title="01. Religi TV", MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 group-title="01. Religi TV" tvg-logo="https://puldapii.or.id/APSI/assets/img/Lembaga/Logo/f679b0e7a299d2dff27eea0d731dc8c4.png",Wesal TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+#EXTINF:-1 group-title="01. Religi TV" tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/TV-Alhijrah.png",Astro Al Hijrah
+#http://newlife3.wanicelife.com:8880/JH12M3D196/fRV363z8kz/71024
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+
+#EXTINF:-1 group-title="01. Religi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png",Astro Oasis
+http://newlife3.wanicelife.com:8880/D12m2083/das2321sa452/1701
+
+#EXTINF:-1 tvg-id="" group-title="02. News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/41/New_MetroTV_Logo_and_Slogan_2010.png",Metro TV
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="02. News TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEeLFkBaDMc7GvhT_RkQpoWvf03htoZGbqIHp4fO9KLy6vyNo3p6VblX24zCPIQ2bV6_FuYmBBU2wqyQaM4iDWgu_b7Xlef1_XrEcEvst9_kcOqnXq53Qhpr6YFAsMQMowExNskeGSgq4/s1600/logo-tvone-vector.png",TVOne
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1666347392-.png" group-title="02. News TV",Berita Satu
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://id.seedbacklink.com/wp-content/uploads/2023/10/cnn-id-logo-removebg-preview.png" group-title="02. News TV",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="02. News TV" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1649314731-.png",Kompas TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://smartpath.id/assets/cnbc-17d0dc8a.png" group-title="02. News TV",CNBC Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
+
+#EXTINF:-1 group-title="02. News TV" tvg-id="iNews" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/01/23/3514719231.png",iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-id="Sindo News TV" tvg-name="Sindo News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/SindoNewsTV_2023.png" group-title="02. News TV", Sindo News TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="03. Local TV" tvg-id="RCTI" tvg-logo="https://aspek.id/wp-content/uploads/2019/09/september_04_rcti.png",RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsDzYcZfHj_bAH34-SQdxQc
+
+#EXTINF:-1 group-title="03. Local TV" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="03. Local TV",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="Net." tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="03. Local TV",NET
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="03. Local TV" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="03. Local TV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" group-title="03. Local TV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png",SCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" group-title="03. Local TV" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://filex.tv:8080/@MalikBilal007@854369/HelloSky@7544898/302264
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="03. Local TV", Moji
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://filex.tv:8080/@MalikBilal007@854369/HelloSky@7544898/302279
+
+#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="03. Local TV",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+
+#EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="03. Local TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="04. Premium TV " tvg-id="boohd.my" tvg-logo="https://cdn.icon-icons.com/icons2/2148/PNG/512/boo_icon_132544.png",Boo 
+http://ktpremium.xyz:2095//live/yv2268/22681081/26011.ts
+
+#EXTINF:-1 group-title="04. Premium TV"  tvg-logo="https://cdn.kibrispdr.org/data/757/logo-masih-dunia-lain-10.png",Dunia Lain
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="" tvg-logo="https://iili.io/H88dhB4.png" group-title="04. Premium TV", Dunia Sinema
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="Citra Drama" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049351-.png" group-title="04. Premium TV",Citra Drama
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Citra Bioskop" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggPLxOqdWS8YNf9-s8volil6waPeJwDyn50nHcf8X_pa-lKEG13SwTzhMQE65vKvEvKfNXwojdHhKUMGpum4lmr0uGCcEhA8vXUux0ACDiPJuygEIg6A7SD9WtxFjuGubgzHyrv_4sQBfo/s1600/citra-bioskop-channel-tv-logo.png" group-title="04. Premium TV",Citra Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://beetv.my.id/key/cbioskop.json
+https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="IMC" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="04. Premium TV",IMC
+#https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-name="" tvg-id="Flik" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1585822039-.jpg" group-title="04. Premium TV",Flik
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+
+#EXTINF:-1, group-title="04. Premium TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap Malaysia
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b 
+
+#EXTINF:-1, group-title="04. Premium TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot Malaysia
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27 
+
+#EXTINF:-1 group-title="04. Premium TV" tvg-id="hits.sg" tvg-logo="https://www.hitstv.com/assets/hits.png",Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="04. Premium TV" tvg-id="hitsmovies.sg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="04. Premium TV" tvg-id="mycinemaasia.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY CINEMA ASIA.png",My Cinema Asia
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 tvg-name="" tvg-id="My Cinema" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20CINEMA%20NEW.png" group-title="04. Premium TV",My Cinema
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 group-title="04. Premium TV" tvg-id="myfamilychannel.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20FAMILY%20NEW.png",My Family Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi.png" group-title="04. Premium TV", Cinemchi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Action%20(black).png" group-title="04. Premium TV", Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi Max" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20MAX%20Square%20(black).png" group-title="04. Premium TV", Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png" group-title="04. Premium TV", Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema Word" tvg-logo="https://live.firstmedia.com/files/email/template/webp/icon-cinemaworld.webp" group-title="04. Premium TV", Cinema Word
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
+
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Galaxy_TV_2000s_Logo.png/revision/latest?cb=20211017034205" group-title="04. Premium TV", Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/galaxypre.png" group-title="04. Premium TV", Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="04. Premium TV",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/hbo_hd_wide.png" group-title="04. Premium TV",HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272290605%27&EntityType=%27Item%27&EntityId=%2797140%27&Width=1920&Height=1280" group-title="04. Premium TV",HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://logodix.com/logo/789245.png" group-title="04. Premium TV",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edc97dfc-312f-486c-a403-2a7a944a049d/dh0h4vi-0958198b-c601-47c9-a856-48127b4ab971.png/v1/fill/w_985,h_812/hbo_signature_logo_redesign__by_ricky3denton_dh0h4vi-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2VkYzk3ZGZjLTMxMmYtNDg2Yy1hNDAzLTJhN2E5NDRhMDQ5ZFwvZGgwaDR2aS0wOTU4MTk4Yi1jNjAxLTQ3YzktYTg1Ni00ODEyN2I0YWI5NzEucG5nIiwid2lkdGgiOiI8PTE3NDcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.93flG8OaAiCMNMuI5s-SSk58nncLQA58Nw-3P4WWRNk" group-title="04. Premium TV",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY2BVya9g_5xaMqKIjEzIT5w_GFBA-bYFa38WJeg_uQzm8Z2cxlCmPh37XRgV0xyLPUwiY-7i30L47RrrzjdwCiS-KT7W_AdD9cnPF11OdmRp93KhKB0hzMiFiK6csCRxlEOiSMfQqBexU/s1600/CELESTIAL+CLASSIC+MOVIES+logo.png" group-title="04. Premium TV", CCM
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/astro-celestialmovies-hd-ch309_orig.png" group-title="04. Premium TV", Celestial Movie
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://ia800409.us.archive.org/18/items/picons/AXN%20HD.png" group-title="04. Premium TV", AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="Warner TV." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="04. Premium TV",Warner TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://cdn.prod.website-files.com/64e961c3862892bff815289d/64f55d8481052e45d515eb50_logo_ent_red_web-p-500.png" group-title="04. Premium TV", Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="Rock Action" tvg-name="Rock Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="04. Premium TV", Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/800px-KIX_logo.svg.png" group-title="04. Premium TV", KIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="04. Premium TV",Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="04. Premium TV"  tvg-logo="https://www.nowtv.now.com/media/logo/L00410-dbg-e.png",tvN Movie
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_(2016-2020).png" group-title="04. Premium TV",TVN HD
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+https://dsgtq5sngxkde.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="K Plus" tvg-name="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="04. Premium TV", K Plus
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 group-title="04. Premium TV" tvg-id="ONE" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_(2020).png",ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="04. Premium TV" tvg-id="Maxstream" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Simpati-prime-packages-for-entertainment-telkomsel-22.png",Maxstream
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="HGTV" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/HGTV-Logo-1994-2010.png" group-title="05. Lifestyle TV",HGTV
+#http://ktv.im:8080/live/12345/12345/101117.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://seeklogo.com/images/L/lifetime-logo-500C24B0C8-seeklogo.com.png" group-title="05. Lifestyle TV", Lifetime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://d1abp075u76pbq.cloudfront.net/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="05. Lifestyle TV", TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=746c6330303030303030303030303030:80719b8d1cdc6ed01aa555663db7fc96
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="HITS Now" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="05. Lifestyle TV",Hits Now
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
+
+#EXTINF:-1 group-title="05. Lifestyle TV"  tvg-logo="https://images.squarespace-cdn.com/content/v1/54a75b3fe4b037e9bac6bd3d/1625490407838-WB0SS0CT1TDTE9YLT65U/logo-asian-food-network.png?format=500w",Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+
+#EXTINF:-1 group-title="05. Lifestyle TV"  tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=32&kodegb=Eat__Go_Transvision.png",Eat & Go
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png" group-title="06. Knowledge TV", History
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+#https://cempedak-live-cdn.mncnow.id/live/eds/Historynew/sa_dash_vmx/Historynew.mpd
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-1995.png" group-title="06. Knowledge TV", Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTINF:0 tvg-id="Discovery Asia" tvg-name="" group-title="06. Knowledge TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_170_122",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Animal_Planet_HD.png" group-title="06. Knowledge TV",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/340px-Love_Nature_TV.png" group-title="06. Knowledge TV", Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Outdoor_Channel_HD.png" group-title="06. Knowledge TV", Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
+
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png?format=750w" group-title="06. Knowledge TV", BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-name="" tvg-id="Fun Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png" group-title="07. Kids TV",Fun Planet
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Animaxx_Australia_Logo_2000-2005.png" group-title="07. Kids TV"", Animax
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nickelodeon.png" group-title="07. Kids TV", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="" tvg-logo="https://freeweb.t-2.net/itak/LOGO/Nick_JR.png" group-title="07. Kids TV", Nick Jr.
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/ww8NnxXLAJY4dNJx34AXAY8-h0OkOKmidT_QC5osuhamzHXktzFAXyIJg5tNQvwjGiGc=w240-h480" group-title="07. Kids TV", Kids TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="https://images.shakespearesglobe.com/uploads/2023/03/BBC-CBeebies-Logo-2.png?w=300" group-title="07. Kids TV", Cbeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 group-title="08. Sports TV" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="08. Sports TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch671_300_216",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="08. Sports TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 group-title="08. Sports TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="08. Sports TV", Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="Astro Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="08. Sports TV",Astro Arena
+http://vo01.mohdtv.com:8880/voby1872/17497519/1703
+
+#EXTINF:-1 tvg-id="Astro Arena Bola 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Astro_Arena_Bola_1_NEW.png" group-title="08. Sports TV",Astro Arena Bola 1
+http://metatvpro.xyz:25461/G3602/4699/13779
+
+#EXTINF:-1 tvg-id="Astro Arena Bola 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png" group-title="08. Sports TV",Astro Arena Bola 2
+http://metatvpro.xyz:25461/G3602/4699/13780
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="08. Sports TV", Astro Supersport 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#https://7pal.short.gy/astross1
+http://vo01.mohdtv.com:8880/voby1872/17497519/59220
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="08. Sports TV", Astro Supersport 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#https://7pal.short.gy/astross2
+http://vo01.mohdtv.com:8880/voby1872/17497519/59219
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="08. Sports TV", Astro Supersport 3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+#https://7pal.short.gy/astross3
+http://vo01.mohdtv.com:8880/voby1872/17497519/59218
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="08. Sports TV", Astro Supersport 4
+http://vo01.mohdtv.com:8880/voby1872/17497519/59217
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://iili.io/Jmo50Cu.png" group-title="08. Sports TV",Arena Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://iili.io/Jmo5VYQ.png" group-title="08. Sports TV",Arena Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://iili.io/Jmo5E4j.png" group-title="08. Sports TV",Arena Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="08. Sports TV",Sony Sports 1 
+http://ktv.im:8080/77777/77777/5429
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="08. Sports TV",Sony Sports 2 
+http://ktpremium.store:2095/live/yv2268/22681081/512007.ts
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="08. Sports TV",Sony Sports 3 
+http://ktv.im:8080/77777/77777/5430
+
+#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="08. Sports TV",Sony Sports 4 
+#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+http://starshare.live:8080/123456/123456/29469
+
+#EXTINF: -1 tvg-id="143" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="08. Sports TV",Sony Sports 5
+http://starshare.live:8080/123456/123456/98870
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 group-title="08. Sports TV" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2024/04/billiardtv-logo-yellow.png", Billyard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
+
+#EXTINF:-1 group-title="08. Sports TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/NBA_Premium_Logo_TV_2017.png",NBA
+https://inditv.openwindow042.workers.dev/https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
+
+#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://bizneworleans.com/wp-content/uploads/2023/12/1WWESharesSoar-WWELogo.png" group-title="08. Sports TV", WWE Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
+https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
+
+#EXTINF:-1 tvg-id="Impact Westrling" tvg-name="Impact Wrestling" tvg-logo="https://www.oceaniaprowrestling.com/assets/img/impact-wrestling.png" group-title="08. Sports TV", Impact Wrestling
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/11943.m3u8
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.oles.tv/stations/mixmlive/logo.png" group-title="09. Music TV",Clubbing TV
+#http://tvmate.icu:8080/E7p7DU/011587/164850
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-name="Myx World TV" tvg-id="Myx World TV" tvg-logo="https://www.deephouseamsterdam.com/wp-content/uploads/2022/02/Myx-Logo-300x196.png" group-title="09. Music TV",Myx World TV
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+
+#EXTINF:-1 tvg-name="K-Pop TV" tvg-id="K-Pop TV" tvg-logo="https://assets.xfinity.com/assets/dotcom/learn/Images/www_xfinity_com/TV/International/Korean/tvk_pop.png" group-title="09. Music TV",K-Pop TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+http://fuckyouall111av.funtogether.xyz:8080/Cheikhsall/a08oJcTP4e/80957?play_token=G3wk4tyTAU
+
+###################################
+#######-----10. Movies 2024-----########
+###################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool & Wolverine" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-deadpool-wolverine-2024-lk21-d21.jpg" group-title="10. Movies 2024", Deadpool & Wolverine
+https://iahhu7cuwkpf.hgagecdn.com/hls2/01/02214/64hjpsnl8fdg_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=MNDWI3EUvBNf-uO518oQJtrcwi6vXKFYViHwBrj3tTc&s=1726643384&e=129600&f=11102908&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=131111
+
+#EXTINF:-1 tvg-id="" tvg-name="Descendants: The Rise of Red" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/8fYluTtB3b3HKO7KQa5tzrvGaps.jpg?w=300&ssl=1" group-title="10. Movies 2024", Descendants: The Rise of Red
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/05/Descendants.The.Rise.of.Red.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Bikeriders" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg?w=300&ssl=1" group-title="10. Movies 2024", The Bikeriders
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/03/The.Bikeriders.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Boneyard" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg?w=300&ssl=1" group-title="10. Movies 2024", Boneyard
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/02/Boneyard.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom of the Planet of the Apes (2024)" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/gKkl37BQuKTanygYQG1pyYgLVgf.jpg?w=300&ssl=1" group-title="10. Movies 2024", Kingdom of the Planet of the Apes (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/02/Kingdom.of.the.Planet.of.the.Apes.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Cop: Axel F" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/zszRKfzjM5jltiq8rk6rasKVpUv.jpg?w=300&ssl=1" group-title="10. Movies 2024", Beverly Hills Cop: Axel F
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/12/Beverly.Hills.Cop.Axel.F.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="In a Violent Nature" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/o5pcDZaA9Up0X612os34JNCRX6j.jpg?w=300&ssl=1" group-title="10. Movies 2024", In a Violent Nature
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/11/In.a.Violent.Nature.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Watchers" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/07/vZVEUPychdvZLrTNwWErr9xZFmu.jpg?w=300&ssl=1" group-title="10. Movies 2024", The Watchers
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/11/The.Watchers.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Furiosa: A Mad Max Saga (2024)" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/iADOJ8Zymht2JPMoy3R7xceZprc.jpg?w=300&ssl=1" group-title="10. Movies 2024", Furiosa: A Mad Max Saga (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/09/Furiosa.A.Mad.Max.Saga.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IF" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg?w=300&ssl=1" group-title="10. Movies 2024", IF
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/07/IF.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Boy Kills World" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/06/25JskXmchcYwj3jHRmcPm738MpB.jpg?w=300&ssl=1" group-title="10. Movies 2024", Boy Kills World
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/05/Boy.Kills.World.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hit Man" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg.webp" group-title="10. Movies 2024", Hit Man
+https://soqzlgevoq9t.hgagecdn.com/hls2/01/01847/lmx7xi0bw7uf_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=91lPmh66QDpRj9-qJ2x7vpefetf4s08TBDo7VVKczJY&s=1721468720&e=129600&f=9266944&srv=pmjx9cjae94d&i=0.4&sp=500&p1=pmjx9cjae94d&p2=pmjx9cjae94d&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Tarot" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/9ZKldPK6RoutprEYnG1EUbIFkEV.jpg?w=300&ssl=1" group-title="10. Movies 2024", Tarot
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/13/Tarot.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Atlas" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg?w=300&ssl=1" group-title="10. Movies 2024", Atlas
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/12/Atlas.2024.mp4/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="The Fall Guy" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/tSz1qsmSJon0rqjHBxXZmrotuse.jpg?w=300&ssl=1" group-title="10. Movies 2024", The Fall Guy
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/09/The.Fall.Guy.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Last Stop in Yuma County" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/u6ae2MMh8PpSamO3cIttLM5B18v.jpg?w=300&ssl=1" group-title="10. Movies 2024", The Last Stop in Yuma County
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/The.Last.Stop.in.Yuma.County.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Challengers" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/4vc8wOf2yG9TiXoJpvz2fJHOmHA.jpg?w=300&ssl=1" group-title="10. Movies 2024", Challengers
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/Challengers.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Turtles All the Way Down" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg?w=300&ssl=1" group-title="10. Movies 2024", Turtles All the Way Down
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/05/Turtles.All.the.Way.Down.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Darkness of Man" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/tsj5oYBRoF5PuTYrfe1Hw6fsxfG.jpg?w=300&ssl=1" group-title="10. Movies 2024", Darkness of Man
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/05/Darkness.of.Man.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Abigail" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg?w=300&ssl=1" group-title="10. Movies 2024", Abigail
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/03/Abigail.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Idea of You" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg?w=300&ssl=1" group-title="10. Movies 2024", The Idea of You
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/01/The.Idea.of.You.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Frozen Empire" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/04/6faYaQyiBPhqAizldJKq21mIVaE.jpg?w=300&ssl=1" group-title="10. Movies 2024", Ghostbusters: Frozen Empire
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/11/Ghostbusters.Frozen.Empire.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Arcadian" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/04/hvnedYKwtR6I2MKRZXC0orxvehp.jpg?resize=170%2C255&ssl=1" group-title="10. Movies 2024", Arcadian
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/01/Arcadian.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Damaged" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/04/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?w=300&ssl=1" group-title="10. Movies 2024", Damaged
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/06/Damaged.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ordinary Angels" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/04/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg?w=300&ssl=1" group-title="10. Movies 2024", Ordinary Angels
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/03/Ordinary.Angels.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla x Kong: The New Empire" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/04/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg?w=300&ssl=1" group-title="10. Movies 2024", Godzilla x Kong: The New Empire
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/Godzilla.x.Kong.The.New.Empire.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dune: Part 2" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/03/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg?w=300&ssl=1" group-title="10. Movies 2024", Dune: Part 2
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/03/Dune.Part.Two.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Madame Web" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/03/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg?w=300&ssl=1" group-title="10. Movies 2024", Madame Web
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/10/Madame.Web.2024.mp4/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="Damsel" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/03/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg?w=300&ssl=1" group-title="10. Movies 2024", Damsel
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/07/Damsel.2024.mp4/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="Argylle" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/03/siduVKgOnABO4WH4lOwPQwaGwJp.jpg?w=300&ssl=1" group-title="10. Movies 2024", Argylle
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/06/Argylle.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mean Girls" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg?w=300&ssl=1" group-title="10. Movies 2024", Mean Girls
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/09/Mean.Girls.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Land of Bad" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg?w=300&ssl=1" group-title="10. Movies 2024", Land of Bad
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Land.of.Bad.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="10. Movies 2024", The Beekeeper
+https://908471852.tapecontent.net/radosgw/A6vBLMeVqKFXYoo/f41zC3Ex74lgluZNRcmEsCpqzBGA6f9-N_wov4oJcjum5PWk3u0ieRTp5_Clr_f4QOaiuYjETP7i46gX2dI71baQ2DflhzOjO1A-l-WGmSAPnwMlvVr0l8K67Tkiimrd_Ncx4dgTapPKdDuZfxx0P1aySHmzdVW-QltKprYGPjO0mMt2Un7qHVd3bWj6sC8N20RtAe-oiSA2Uol1lQf9kyu_LeewR-XoomCANfJZNHZcBkpDFrRrJImHW0LjtTdKLUNHZW8FBkHxlae-IiWJnoSontwOOu9nN8hyrg/The+Beekeeper+%282024%29.mp4
+
+
+###################################
+#######-----11. Movies 2023-----########
+###################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Ruthless" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/05/4ndp1pnHWRuiZLNpFJvO4Kh6Tav.jpg?w=300&ssl=1" group-title="11. Movies 2023", Ruthless
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/Ruthless.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Poor Things" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/03/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg?w=300&ssl=1" group-title="11. Movies 2023", Poor Things
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/Ruthless.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Anyone But You" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg?w=300&ssl=1" group-title="11. Movies 2023", Anyone But You
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/05/Anyone.But.You.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Instant Daddy" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/02/ur13oHhTmsqPVjx5FGOuzB1zTxC.jpg?resize=170%2C255&ssl=1" group-title="11. Movies 2023", Instant Daddy
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/Instant.Daddy.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/01/xBFyJHvXCTgf9Vmq5uCnXRHrMQ4.jpg?w=300&ssl=1" group-title="11. Movies 2023", Ferrari
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/13/Ferrari.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman and the Lost Kingdom" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/01/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg?w=300&ssl=1" group-title="11. Movies 2023", Aquaman and the Lost Kingdom
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/12/Aquaman.and.the.Lost.Kingdom.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Wonka" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/01/film-wonka-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Wonka
+https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Role Play" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/01/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg?w=300&ssl=1" group-title="11. Movies 2023", Role Play
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/09/Role.Play.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Bricklayer" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2024/01/36pYugctLa70NmwMEgXTR1G31Kq.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Bricklayer
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/03/The.Bricklayer.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Genie" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg?w=300&ssl=1" group-title="11. Movies 2023", Genie
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/16/Genie.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Saltburn" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/qjhahNLSZ705B5JP92YMEYPocPz.jpg?w=300&ssl=1" group-title="11. Movies 2023", Saltburn
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/16/Saltburn.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon: Part One – A Child of Fire" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg?w=300&ssl=1" group-title="11. Movies 2023", Rebel Moon: Part One – A Child of Fire
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/15/Rebel.Moon.Part.One.-.A.Child.of.Fire.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Finestkind" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg?w=300&ssl=1" group-title="11. Movies 2023", Finestkind
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/12/Finestkind.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: The Ballad of Songbirds & Snakes" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/ePquoeNxJ6vg8U7iSjRAZ2KdztX.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Hunger Games: The Ballad of Songbirds & Snakes
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/13/The.Hunger.Games-.The.Ballad.of.Songbirds.&.Snakes.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Family Plan" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Family Plan
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/The.Family.Plan.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Housekeeper" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/xFRNwqTl0WeWiTW10Wyixug1c9J.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Housekeeper
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/01/The.Housekeeper.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Please Don’t Destroy: The Treasure of Foggy Mountain" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/12/cdbF4kHyVNFZbLGf2Qow5rZdKj8.jpg?w=300&ssl=1" group-title="11. Movies 2023", Please Don’t Destroy: The Treasure of Foggy Mountain
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/19/Please.Dont.Destroy.The.Treasure.of.Foggy.Mountain.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Freelance" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/11/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg?w=300&ssl=1" group-title="11. Movies 2023", Freelance
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/17/Freelance.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Squealer" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/11/wdNdrqVJgkNNuYbI11TiiYkuP7Q.jpg?w=300&ssl=1" group-title="11. Movies 2023", Squealer
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/15/SQUEALER.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Creator" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/11/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Creator
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/15/THE.CREATOR.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Marvels" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/11/tUtgLOESpCx7ue4BaeCTqp3vn1b.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Marvels
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/09/The.Marvels.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/11/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg?w=300&ssl=1" group-title="11. Movies 2023", Oppenheimer
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/11/02/task1/a4b7d4e6f27bb148dda76222f6597832/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shrapnel" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/gsRDrAML7hJC8ZCgRQobHIrzbxR.jpg?w=300&ssl=1" group-title="11. Movies 2023", Shrapnel
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/10/05/task1/a3bc8e42fc68505985b2b689afecbdfe/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Other Zoey" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Other Zoey
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/10/01/task1/48f7bb88b5a4ac15b2c7de19ca59b334/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Saw X" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/b16RAVwj2QN6RAs752UJNzQ9Of0.jpg?w=300&ssl=1" group-title="11. Movies 2023", Saw X
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/10/01/task1/c5c6f5191b6a2fce21d9aaa3a68a78ae/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Burial" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Burial
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/09/task1/97be48b707a7907a9e6aa0b0cd72a336/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Expend4bles" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/nbrqj9q8WubD3QkYm7n3GhjN7kE.jpg?w=300&ssl=1" group-title="11. Movies 2023", Expend4bles
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/09/task1/9c587f0dd4b45a7d0a2049c12f83adc2/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="After Everything" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg?w=300&ssl=1" group-title="11. Movies 2023", After Everything
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/7b8c67184d6f875762e5c481b3c19b8d/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Muzzle" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qXChf7MFL36BgoLkiB3BzXiwW82.jpg?w=300&ssl=1" group-title="11. Movies 2023", Muzzle
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/40b9047a09eb673244cf49fb3fed0cbe/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sound of Freedom" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg?w=300&ssl=1" group-title="11. Movies 2023", Sound of Freedom
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/05/task1/c83ab0fd4050f3952b8102b0da04b391/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bottoms" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg?w=300&ssl=1" group-title="11. Movies 2023", Bottoms
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/03/task1/171a902c897968cc890ce5a35e7d876a/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Equalizer 3" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Equalizer 3
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/03/task1/6fe9d9c89013bf55b5780f445e944ca6/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Nun II" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Nun II
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/03/task1/6b6dc15118868a1a5621a552dab2f37f/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sniper: G.R.I.T." tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/gcd5TJwXLWeQ2Dn0aRxI8OJIIxK.jpg?w=300&ssl=1" group-title="11. Movies 2023", Sniper: G.R.I.T.
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/01/task1/ddf73fd210b44b8f2ea1619a10e58906/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Wonderful Story of Henry Sugar" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/10/A4LTXT8MMZIr4aIwhE4qbGFivBo.jpg?w=300&ssl=1" group-title="11. Movies 2023", The Wonderful Story of Henry Sugar
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/09/01/task1/0f7cb89a10e57a61190e50642aa440b2/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/09/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg?w=300&ssl=1" group-title="11. Movies 2023", Gran Turismo
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/12/task1/a8095fd1dac8f45f80e187737429712f/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Love at First Sight" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/09/zTTgI92GGVtYIGunown2oWOUDES.jpg?w=300&ssl=1" group-title="11. Movies 2023", Love at First Sight
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/07/task1/d25e032d68636ad669b9acb24b66000e/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Retribution" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/09/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg?w=300&ssl=1" group-title="11. Movies 2023", Retribution
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/07/task1/ccb269951e8c64a8d41c2dc6585f328f/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Barbie" tvg-logo="https://i0.wp.com/www.sbnews.co.id/wp-content/uploads/2023/09/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg?w=300&ssl=1" group-title="11. Movies 2023", Barbie
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/07/12/task1/2a9ab7bebdde7eadf5e950e0a9dd7570/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/09/film-blue-beetle-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Blue Beetle
+https://jje3d85cwvdg.hgagecdn.com/hls2/01/00965/m6jroxd09mrd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=G2zrzN1Rj0AaE4vbneE1dBf-fwP-tl_6i36_UgmCc70&s=1721488202&e=129600&f=4826550&srv=jOOsnklnnY6D&i=0.4&sp=500&p1=jOOsnklnnY6D&p2=jOOsnklnnY6D&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Puppy Love" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/08/film-puppy-love-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Puppy Love
+https://stream.hownetwork.xyz/xxx/puppy-love-2023-webdl/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Slumber Party" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/08/film-the-slumber-party-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", The Slumber Party
+https://stream.hownetwork.xyz/xxx/the-slumber-party-2023-webdl/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Meg 2: The Trench" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Meg 2: The Trench
+https://nwyz4jcwznvv.hgagecdn.com/hls2/01/01094/cfnr1lt0b6q5_,l,n,.urlset/index-f2-v1-a1.m3u8?t=B97ijNjDeah5rLjKO_rcd6ehkxZak2brK7okDet4o7U&s=1721488825&e=129600&f=5472588&srv=o6HwAC2qTh6R&i=0.4&sp=500&p1=o6HwAC2qTh6R&p2=o6HwAC2qTh6R&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Hidden Strike" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/07/film-hidden-strike-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Hidden Strike
+https://stream.hownetwork.xyz/xxx/hidden-strike-2023-webdl/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M:I – Dead Reckoning (1)" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/07/film-mission-impossible-dead-reckoning-part-one-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", M:I – Dead Reckoning (1)
+https://togtbtzsk9xf.hgagecdn.com/hls2/01/00697/jh6p277icdi4_,l,n,.urlset/index-f2-v1-a1.m3u8?t=AlMByipCvYz1lGJPGfS_WfrojHiZWfX_UmAUYmf4axw&s=1721489174&e=129600&f=3485408&srv=R7E4BBU6QXpa&i=0.4&sp=500&p1=R7E4BBU6QXpa&p2=R7E4BBU6QXpa&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/07/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Indiana Jones and the Dial of Destiny
+https://stream.hownetwork.xyz/xxx/indiana-jones-and-the-dial-of-destiny-2023-bluray_X_a38998df/18/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Extraction 2" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/06/film-extraction-2-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Extraction 2
+https://stream.hownetwork.xyz/xxx/extraction-2-2023-webdl/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Flash" tvg-logo="https://cds.bet/wp-content/uploads/2023/06/rktDFPbfHfUbArZ6OOOKsXcv0Bm-146x218.jpg" group-title="11. Movies 2023", The Flash
+https://lqas6jwl9y0x.hgagecdn.com/hls2/01/00491/skb56qkzd4aw_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=x6YIl-T81CR37jZeOa9IOfeQcb8eVyCBX7Dje9Bn6d0&s=1721628795&e=129600&f=2459100&srv=VyRMveB1ylYs&i=0.4&sp=500&p1=VyRMveB1ylYs&p2=VyRMveB1ylYs&asn=131111
+
+#EXTINF:-1 tvg-id="" tvg-name="Kandahar" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/06/film-kandahar-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Kandahar
+https://stream.hownetwork.xyz/xxx/kandahar-2023-webdl/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Are You There God? It’s Me, Margaret" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-are-you-there-god-its-me-margaret-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Are You There God? It’s Me, Margaret
+https://stream.hownetwork.xyz/xxx/are-you-there-god-its-me-margaret-2023-webdl/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Rise of the Beasts" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Transformers: Rise of the Beasts
+https://stream.hownetwork.xyz/xxx/transformers-rise-of-the-beasts-2023-bluray/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Showing Up" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/06/film-showing-up-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Showing Up
+https://stream.hownetwork.xyz/xxx/showing-up-2023-webdl/9/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Little Mermaid" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/06/film-the-little-mermaid-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", The Little Mermaid
+https://stream.hownetwork.xyz/xxx/the-little-mermaid-2023-bluray/4/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hypnotic" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/06/film-hypnotic-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Hypnotic
+https://stream.hownetwork.xyz/xxx/hypnotic-2023-bluray/16/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fast X" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Fast X
+https://nzxfhnnl6es7.hgagecdn.com/hls2/01/01096/h0otkc9avng2_,l,n,.urlset/index-f2-v1-a1.m3u8?t=5MhgIU2IS6pCUm9OprbKbe3NDHLQ7OuxznNVf-FZMdY&s=1721490983&e=129600&f=5482775&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 3" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Guardians of the Galaxy Vol. 3
+https://stream.hownetwork.xyz/xxx/guardians-of-the-galaxy-vol-3-2023-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor Among Thieves" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2023/05/film-dungeons-dragons-honor-among-thieves-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Dungeons & Dragons: Honor Among Thieves
+https://stream.hownetwork.xyz/xxx/dungeons-dragons-honor-among-thieves-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pope’s Exorcist" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2023/05/film-the-popes-exorcist-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", The Pope’s Exorcist
+https://stream.hownetwork.xyz/xxx/the-popes-exorcist-2023-bluray/9/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Scream VI" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2023/04/film-scream-vi-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Scream VI
+https://stream.hownetwork.xyz/xxx/scream-vi-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ghosted" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2023/04/film-ghosted-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Ghosted
+https://stream.hownetwork.xyz/xxx/ghosted-2023-webdl/10/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! Fury of the Gods" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Shazam! Fury of the Gods
+https://stream.hownetwork.xyz/xxx/shazam-fury-of-the-gods-2023-bluray/9/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Creed III" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Creed III
+https://stream.hownetwork.xyz/xxx/creed-iii-2023-bluray/9/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", John Wick: Chapter 4
+https://stream.hownetwork.xyz/xxx/john-wick-chapter-4-2023-bluray/8/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2023/03/film-operation-fortune-ruse-de-guerre-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Operation Fortune
+https://stream.hownetwork.xyz/xxx/operation-fortune-ruse-de-guerre-2023-bluray/11/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp: Quantumania" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Ant-Man and the Wasp: Quantumania
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/01/task1/a0cada1dd61309f47226c37d48798a5e/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Detective Knight: Independence" tvg-logo="https://i0.wp.com/kalashainternational.com/wp-content/uploads/2023/02/jrPKVQGjc3YZXm07OYMriIB47HM.jpg?w=300&ssl=1" group-title="11. Movies 2023", Detective Knight: Independence
+https://stream.hownetwork.xyz/xxx/detective-knight-independence-2023-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Plane" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/01/film-plane-2023-lk21-d21.jpg.webp" group-title="11. Movies 2023", Plane
+https://stream.hownetwork.xyz/xxx/plane-2023-bluray/11/480.m3u8
+
+
+
+
+
+###################################
+#######-----12. Movies 2022-----########
+###################################
+
+#EXTINF:-1 tvg-id="" tvg-name="BTS: Permission to Dance on Stage – LA" tvg-logo="https://www.themoviedb.org/t/p/w1280/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg" group-title="12. Movies 2022", BTS: Permission to Dance on Stage – LA
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/01/10/task1/602f003aff576510690adf490861ae9b/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A Royal Runaway Romance" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2024/03/skZJl4QOQOCPxnihPTbQxbYXTEg.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Royal Runaway Romance
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/03/A.Royal.Runaway.Romance.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/bnAJHSgOikCu9QAo9dyyR7L0cL.jpg?w=300&ssl=1" group-title="12. Movies 2022", Vide Noir
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/16/Vide.Noir.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/5lDOz2zlfiprRYKAWUJRkdSaWhl.jpg?w=300&ssl=1" group-title="12. Movies 2022", Holiday Harmony
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/15/Holiday.Harmony.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/7ROhQeFIRCDadpIe4C7fVi5mV1Q.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Christmas Mystery
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/A.Christmas.Mystery.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/f8D6dobydMiuabqRDQi0598ghc4.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Hollywood Christmas
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/09/A.Hollywood.Christmas.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/8g3wDC8vYRzC8OkkURV7OIRErjP.jpg?w=300&ssl=1" group-title="12. Movies 2022", Catering Christmas
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/01/Catering.Christmas.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/9OXU2AIcV0NX7jP9yDxgz9XaIko.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Brush with Christmas
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/01/A.Brush.with.Christmas.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/12/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg?w=300&ssl=1" group-title="12. Movies 2022", Prancer: A Christmas Tale
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/01/Prancer.A.Christmas.Tale.2022.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/10/84WdfgbaShhsuwW08V2IpqDo7nB.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Bad Seed Returns
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/10/06/task1/12122b17f120d1889cdb26de31bcfda6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/07/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg?w=300&ssl=1" group-title="12. Movies 2022", As Good as Dead
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/06/09/task1/e0ca91d3525e75577fcd5446df252500/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/03/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg?w=300&ssl=1" group-title="12. Movies 2022", American Murderer
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/02/11/task1/1f733e2ef580df679e3828e450263b80/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/03/2DtnVEwBJKL5aUlLAyZASmQpWn8.jpg?w=300&ssl=1" group-title="12. Movies 2022", Gabriel’s Rapture: Part Two
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/02/10/task1/4e10ca45084d0f497caf921b09c2ad84/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/03/130H1gap9lFfiTF9iDrqNIkFvC9.jpg?w=300&ssl=1" group-title="12. Movies 2022", A Man Called Otto
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/02/03/task1/6f886a17a869a634484e665983ea30ec/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Whale
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/01/12/task1/35eec20272b5465d37e3249dcd16b467/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/sv1xJUazXeYqALzczSZ3O6nkH75.jpg?w=300&ssl=1" group-title="12. Movies 2022", Black Panther: Wakanda Forever
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/01/02/task1/8094811bb78eb888edfb2e9611ac5ee7/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg?w=300&ssl=1" group-title="12. Movies 2022", Shotgun Wedding
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/01/02/task1/858ee3168578ed9d0c7605cdca983967/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/wz3LJM9tVUgatlS1WhedZRju1ON.jpg?w=300&ssl=1" group-title="12. Movies 2022", Bar Fight!
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2023/01/01/task1/0d081dd947fad867e592be5b47e67043/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/acCIjyszhmit8k5eWVGNTustYRK.jpg?w=300&ssl=1" group-title="12. Movies 2022", Detective Knight: Redemption
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2023/01/01/task1/c03e4714c0e9dc68c3ff3924d56d716c/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg?w=300&ssl=1" group-title="12. Movies 2022", Detective Knight: M3GAN
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2023/01/01/task1/445b7b48f22b518444219373441d0083/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg?w=300&ssl=1" group-title="12. Movies 2022", Detective Knight: The Menu
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2023/01/01/task1/79824448acd053dfdb3fc3be6e538b06/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg?w=300&ssl=1" group-title="12. Movies 2022", Avatar: The Way of Water
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/03/02/task1/5ef4fac246ab9e501c086d63603acea8/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg?w=300&ssl=1" group-title="12. Movies 2022", AThe Pale Blue Eye
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/10/task1/07c5221710ca1593a960c613d99c234d/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/02/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg?w=300&ssl=1" group-title="12. Movies 2022", To Leslie
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/10/task1/9d9bc41abcffd2d4d9723d8f198fec6e/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/1XSYOP0JjjyMz1irihvWywro82r.jpg?w=300&ssl=1" group-title="12. Movies 2022", Violent Night
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/08/task1/6059ac0f7356abe9b2fb467bddbba22d/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Fabelmans
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/05/task1/7ca958a09e2c37a6ee22fc329adf7cf1/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg?w=300&ssl=1" group-title="12. Movies 2022", Mindcage
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/05/task1/9a5ed80c266d77bf497849c87551fc62/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2023/01/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg?w=300&ssl=1" group-title="12. Movies 2022", Emancipation
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/12/03/task1/8537b2fbf15af8ac2fa3154c82b275bd/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/12/fabZkaVHYJ67KbZx7oFoitauX34.jpg?w=300&ssl=1" group-title="12. Movies 2022", About Fate
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/0c6eee700c579ce6e48391259ce9f251/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/4x3pt6hoLblBeHebUa4OyiVXFiM.jpg?w=300&ssl=1" group-title="12. Movies 2022", Disenchanted
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/20f82e3497e2ec3dffba0e1bd0386813/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg?w=300&ssl=1" group-title="12. Movies 2022", Spirited
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/ba638d78ef956bf8702d8c5df897e2e2/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Last Manhunt
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/b06380a3eb7fc42d2e502c1ffa0610a1/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/f18kgonrgr8YvEuvshExS4XBGL8.jpg?resize=170%2C255&ssl=1" group-title="12. Movies 2022", Slumberland
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/08/task1/329d6c8fc1fc0a0743d710f67a8bb59c/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/jVmWI8PqoVTHCnrLYAcyrclzeY0.jpg?w=300&ssl=1" group-title="12. Movies 2022", On the Line
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/05/task1/1a46d63fbbe20c0f43f194a74884451f/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/xdmmd437QdjcCls8yCQxrH5YYM4.jpg?w=300&ssl=1" group-title="12. Movies 2022", Paradise City
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/05/task1/fc16b3ca21b2f4213bfb204f08be2aa2/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg?w=300&ssl=1" group-title="12. Movies 2022", Poker Face
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/05/task1/73c0e89ceef1235e6ed60134fdefb08b/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/6GkphwL9s6dZb3DoQS9OQ4LcPgY.jpg?w=300&ssl=1" group-title="12. Movies 2022", Falling for Christmas
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/03/task1/57f0bbd0c5fb45afa85a0767efcbed9d/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/wdbiMjXd4CxPfCx4r4Jfy8cGec0.jpg?w=300&ssl=1" group-title="12. Movies 2022", My Policeman
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/01/task1/ee231786fb4a973e1e72289f1d338df1/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg?w=300&ssl=1" group-title="12. Movies 2022", R.I.P.D. 2 Rise of the Damned
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/01/task1/a424ac39fe4b7722712605d111e0d13d/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg?w=300&ssl=1" group-title="12. Movies 2022", The System
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/11/01/task1/f4f37d237ba64e969a162d308dc90168/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg?w=300&ssl=1" group-title="12. Movies 2022", Enola Holmes 2
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/12/task1/370f9774b2401d74e760035482ae1bd6/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/438QXt1E3WJWb3PqNniK0tAE5c1.jpg?w=300&ssl=1" group-title="12. Movies 2022", The Woman King
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/12/task1/56beee4853837b620d9ab940fca9e593/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/glZfjVEzZCJ7oTHWa3m6KefcoRN.jpg?w=300&ssl=1" group-title="12. Movies 2022", All Quiet on the Western Front
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/fcd8e6691045e7faadc381703308d98b/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg?w=300&ssl=1" group-title="12. Movies 2022", Detective Knight: Rogue
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/bab8143f3ab10f3dc55d07a1dc32714c/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/11/1tzERH50P5c2mFWtLbgixzLZS1L.jpg?w=300&ssl=1" group-title="12. Movies 2022", Ticket to Paradise
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/05ad930573e2194c915a9c854f31a4b3/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg?w=300&ssl=1" group-title="12. Movies 2022", The School for Good and Evil
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/10/09/task1/c0c1aadaef5544b6fb50e6cd84ea3902/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg?w=300&ssl=1" group-title="12. Movies 2022", Black Adam
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st5.google.co/2022/11/10/task1/d7a1c8f39df9b42486330e51e19d4e76/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.borderbobcat.com/wp-content/uploads/2022/10/cSPQp3zclmSViWzrfIucCE0xOOk.jpg?w=300&ssl=1" group-title="12. Movies 2022", Guardians of Time
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/05966/ssa0ni5800x3_n/index-v1-a1.m3u8?t=vLxHf7M9K3Qj1iDaz5xNJq2ee5ZsMCNJaf8enJcs-44&s=1722408782&e=10800&f=29833688&srv=28&asn=131111&sp=4000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############################
+######------13. Kids Movies-----######
+###############################
+
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/04/film-kung-fu-panda-4-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", Kung Fu Panda 4 (2024)
+https://stream.hownetwork.xyz/xxx/kung-fu-panda-4-2024-webdl_X_0ca86d0f/21/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Orion and the Dark (2024)" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/02/film-orion-and-the-dark-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", Orion and the Dark (2024)
+https://stream.hownetwork.xyz/xxx/orion-and-the-dark-2024-webdl_X_b59cd431/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ultraman: Rising (2024)" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-ultraman-rising-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", Ultraman: Rising (2024)
+https://stream.hownetwork.xyz/xxx/ultraman-rising-2024-webdl_X_ae3ee86d/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Tiger’s Apprentice (2024)" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/02/film-the-tigers-apprentice-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", The Tiger’s Apprentice (2024)
+https://stream.hownetwork.xyz/xxx/the-tigers-apprentice-2024-webdl_X_dcb2dea8/20/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Inside Out 2 (2024)" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/07/film-inside-out-2-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", Inside Out 2 (2024)
+https://stream.hownetwork.xyz/xxx/inside-out-2-2024-hdcam_X_0750e18a/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Garfield Movie (2024)" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-the-garfield-movie-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", The Garfield Movie (2024)
+https://stream.hownetwork.xyz/xxx/the-garfield-movie-2024-webdl_X_74da3cf7/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Megamind vs. The Doom Syndicate (2024)" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/03/film-megamind-vs-the-doom-syndicate-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", Megamind vs. The Doom Syndicate (2024)
+https://stream.hownetwork.xyz/xxx/megamind-vs-the-doom-syndicate-2024-webdl_X_d8b66267/1000/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Despicable Me 4 (2024)" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", Despicable Me 4 (2024)
+https://stream.hownetwork.xyz/xxx/despicable-me-4-2024-cam_X_0626cb0e/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Thelma the Unicorn (2024)" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-thelma-the-unicorn-2024-lk21-d21.jpg.webp" group-title="13. Kids Movies", Thelma the Unicorn (2024)
+https://stream.hownetwork.xyz/xxx/thelma-the-unicorn-2024-webdl_X_ceefe7a5/22/480.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############################
+######------14. Korean Drama-----######
+###############################
+
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S01)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S01)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-1-2024-webdl_X_99bb7cdc/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S02)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S02)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-2-2024-webdl_X_8e5575db/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S03)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S03)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-3-2024-webdl_X_3816e86d/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S04)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S04)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-4-2024-webdl_X_500b0985/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S05)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S05)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-5-2024-webdl_X_f000b623/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S06)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S06)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-6-2024-webdl_X_1598e643/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S07)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S07)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-7-2024-webdl_X_07bcb202/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S08)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S08)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-8-2024-webdl_X_18a6b15e/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S09)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S09)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-9-2024-webdl_X_dac2b362/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S10)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S10)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-10-2024-webdl_X_a2de38a0/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S11)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S11)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-11-2024-webdl_X_944fde9f/22/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Whirlwind (S12)" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/07/film-the-whirlwind-2024-lk21-d21.jpg.webp" group-title="14. Korean Drama", The Whirlwind (S12)
+https://stream.hownetwork.xyz/xxx/the-whirlwind-season-1-episode-12-2024-webdl_X_de31b544/22/480.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
