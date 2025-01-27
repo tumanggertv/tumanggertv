@@ -51,7 +51,7 @@ https://cdnjktbpid01.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.city-vision.workers.dev/
-#EXTINF:-1 tvg-id="4028c6856c3db2cc016cdbfc4a1934bf" tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="NASIOJAL", Cinemax
+#EXTINF:-1 tvg-id="4028c6856c3db2cc016cdbfc4a1934bf" tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="NASIONAL", Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://cdnjktbpid01.transvision.co.id/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd?sign=f7de0cb4bcc5ee94148d3260a27dd414&time=1737978772
 
