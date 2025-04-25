@@ -134,8 +134,5 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN V+
-http://cempedak-cdn-fly.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png" group-title="NASIONAL",AXN (V+)
+http://202.147.193.244/live/eds/AXN/sa_dash/AXN.mpd
