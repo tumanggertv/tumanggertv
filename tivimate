@@ -1,7 +1,17 @@
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png", 01 TVONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
- 
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png", 01 TVONE cek 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png", 01 TVONE cek 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.42c01e,mp4a.40.2",RESOLUTION=480x360
+https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://th.bing.com/th/id/OIP.Qa-p6Yq6efGC04UgFPNj-gHaE1?rs=1&pid=ImgDetMain", 02 KOMPAS HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
