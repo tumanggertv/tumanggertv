@@ -34,12 +34,12 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sle
 #EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="NASIONAL",TVRI Nasional
 https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://th.bing.com/th/id/OIP.Qa-p6Yq6efGC04UgFPNj-gHaE1?rs=1&pid=ImgDetMain", INDOSIAR 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="tvg-logo="https://iili.io/JMp3wV1.png", INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://th.bing.com/th/id/OIP.Qa-p6Yq6efGC04UgFPNj-gHaE1?rs=1&pid=ImgDetMain", SCTV 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://iili.io/JMp3iiX.png", SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
