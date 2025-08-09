@@ -41,8 +41,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=681796,RESOLUTION=640x360,FRAME-RATE=25.000
 https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://th.bing.com/th/id/OIP.Qa-p6Yq6efGC04UgFPNj-gHaE1?rs=1&pid=ImgDetMain", ANTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL",ANTV ⚪
+https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
+
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="NASIONAL",Dens Learning & Knowledge
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
